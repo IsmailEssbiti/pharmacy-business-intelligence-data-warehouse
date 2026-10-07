@@ -38,11 +38,15 @@ The public Power BI report contains four analytical pages:
 
 ## Data
 
+The original academic project used real laboratory/healthcare data.
 The public version of the report is intended for portfolio and demonstration purposes.
 
-The original academic project used real laboratory/healthcare data. These records are **not included in the public repository**.
+**The public report uses the synthetic datasets located in:**
 
-The public Power BI report uses **synthetic/anonymized data** to demonstrate the report structure and analytical functionality without exposing confidential information.
+```text
+data/
+├── Bi_Db_Datamarts_synthetic.csv
+└── Bi_Db_Datamarts_2_synthetic.csv
 
 ## Technology
 
