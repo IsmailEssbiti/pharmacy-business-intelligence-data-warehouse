@@ -85,24 +85,4 @@ The repository must not contain:
 - `bin/` or `obj/` build artifacts.
 
 Use synthetic or anonymized data when reproducing the project publicly.
-
-## Project files
-
-Keep source-control files such as:
-
-```text
-BI_Pharmacie_ETL.sln
-BI_Pharmacie_ETL.dtproj
-Fill_DataMarts.dtsx
-Project.params
-```
-
-Exclude generated and user-specific files such as:
-
-```text
-bin/
-obj/
-*.ispac
-*.suo
-*.user
 ```
