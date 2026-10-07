@@ -21,9 +21,15 @@ This folder contains the public, sanitized SQL Server Analysis Services (SSAS) p
 6. Deploy the `BI_Pharmacie_CUBE` database to a local/development SSAS instance.
 7. Process the cube before using it from a reporting client such as Power BI.
 
-## Privacy
+## Public Repository Data
 
-The public repository does not contain the original laboratory/patient records or processed cube data. Connection settings and machine/account identifiers from the original development environment have been replaced with placeholders.
+The SSAS cube model is provided as a technical demonstration of the
+multidimensional reporting layer.
+
+The original project data is not included in this public repository.
+
+The cube should be deployed against a compatible data-mart environment
+containing synthetic or appropriately anonymized data.
 
 ## Excluded build/user files
 
