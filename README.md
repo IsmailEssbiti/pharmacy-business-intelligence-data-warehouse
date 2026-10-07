@@ -499,28 +499,3 @@ Any data used to reproduce the project should be synthetic, anonymized, or other
 **Ismail Essbiti**
 
 Master's-level academic project in Business Intelligence / Data & Decision Support.
-
----
-
-## ⭐ Project Highlights
-
-```text
-SQL Database
-     │
-     ▼
-Staging
-     │
-     ▼
-SSIS ETL
-     │
-     ▼
-Data Marts
-     │
-     ▼
-SSAS Multidimensional Cube
-     │
-     ▼
-Power BI Dashboards
-```
-
-**End-to-end Business Intelligence pipeline from data integration to analytical reporting.**
