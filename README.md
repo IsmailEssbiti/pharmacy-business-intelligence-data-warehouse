@@ -251,12 +251,12 @@ Age groups used in the report are:
 80+
 ```
 
-The public PBIX report is available here:
+**The public PBIX report is available here:**
 
 [Open the public Power BI report](powerbi/Project%20Reports%20PUBLIC.pbix)
 
-The report uses synthetic data prepared specifically for this public repository.
-The original laboratory/healthcare records are not distributed.
+**The report uses synthetic data prepared specifically for this public repository.**
+**The original laboratory/healthcare records are not distributed.**
 
 ---
 
@@ -267,6 +267,7 @@ pharmacy-business-intelligence-data-warehouse/
 │
 ├── README.md
 ├── .gitignore
+├── LICENSE
 │
 ├── docs/
 │   ├── architecture/
@@ -301,7 +302,7 @@ in this public repository.
 
 The public version uses synthetic data for demonstration and reproducibility.
 
-Synthetic datasets are available in the `data/` directory.
+**Synthetic datasets are available in the `data/` directory.**
 
 ---
 
