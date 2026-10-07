@@ -170,11 +170,15 @@ These dimensions provide different perspectives for analyzing business activity.
 
 ---
 
-# 📈 Power BI Reporting
+## Power BI Reporting
 
-The reporting layer was developed with **Microsoft Power BI**.
+The reporting layer is implemented in Microsoft Power BI and provides four
+analytical pages:
 
-The dashboard is organized into four analytical pages.
+- Executive Overview
+- Examination Performance
+- Organization Analysis
+- Patient Demographics
 
 ## 1. Executive Overview
 
@@ -247,6 +251,13 @@ Age groups used in the report are:
 80+
 ```
 
+The public PBIX report is available here:
+
+[Open the public Power BI report](powerbi/Project%20Reports%20PUBLIC.pbix)
+
+The report uses synthetic data prepared specifically for this public repository.
+The original laboratory/healthcare records are not distributed.
+
 ---
 
 # 📂 Repository Structure
@@ -284,26 +295,13 @@ pharmacy-business-intelligence-data-warehouse/
 
 # 🔐 Data Privacy & Public Repository
 
-The original academic project used real laboratory / patient-related data.
+The original academic project used real laboratory/healthcare data.
+For privacy and confidentiality reasons, the original records are not included
+in this public repository.
 
-For this public GitHub repository, **real records are not included**.
+The public version uses synthetic data for demonstration and reproducibility.
 
-The repository intentionally excludes:
-
-- Patient records
-- Real laboratory records
-- Production data
-- Database dumps containing records
-- CSV exports containing sensitive information
-- Passwords and credentials
-- Local machine-specific configuration
-- Build artifacts
-- Deployment artifacts
-- User-specific Visual Studio files
-
-The public project contains the **database structures, BI models, ETL definitions, cube definitions, documentation, and reporting concepts**, rather than the original sensitive dataset.
-
-For reproduction or demonstration purposes, synthetic or anonymized data should be used.
+Synthetic datasets are available in the `data/` directory.
 
 ---
 
