@@ -1,0 +1,1201 @@
+Date,Annee,Mois,Jour,Exam Designation,Organization Nom,CA,Nbr Demande
+2022-04-13,2022,4,13,Liver Panel,Public Health,122.43,1
+2023-03-12,2023,3,12,Liver Panel,Corporate Plan,130.66,2
+2022-09-28,2022,9,28,Glucose,University Plan,48.17,3
+2022-04-17,2022,4,17,Liver Panel,Private Insurance,123.96,1
+2022-03-13,2022,3,13,Creatinine,Other Organization,49.82,3
+2023-12-02,2023,12,2,Cholesterol,Public Health,48.95,2
+2022-01-21,2022,1,21,Liver Panel,Public Health,111.41,3
+2023-09-07,2023,9,7,Urinalysis,Corporate Plan,39.03,3
+2022-05-02,2022,5,2,Vitamin D,University Plan,113.28,1
+2023-04-12,2023,4,12,CBC,University Plan,80.33,3
+2022-08-03,2022,8,3,Cholesterol,Corporate Plan,51.51,1
+2022-11-27,2022,11,27,Cholesterol,Public Health,46.86,2
+2023-04-04,2023,4,4,Ferritin,Private Insurance,89.9,3
+2022-03-29,2022,3,29,Urinalysis,Public Health,37.43,2
+2023-01-08,2023,1,8,CBC,University Plan,85.63,2
+2022-04-10,2022,4,10,Creatinine,Other Organization,42.86,3
+2023-10-26,2023,10,26,Cholesterol,Public Health,56.4,1
+2022-05-11,2022,5,11,Glucose,Private Insurance,50.96,2
+2023-10-24,2023,10,24,Urinalysis,Self-Pay,36.09,2
+2022-11-05,2022,11,5,Cholesterol,Public Health,54.53,3
+2022-12-10,2022,12,10,TSH,Corporate Plan,83.36,3
+2023-05-07,2023,5,7,Electrolytes,Self-Pay,103.77,3
+2023-02-18,2023,2,18,Ferritin,Corporate Plan,91.36,3
+2023-01-21,2023,1,21,CBC,Corporate Plan,77.78,3
+2022-07-11,2022,7,11,Liver Panel,Corporate Plan,120.77,3
+2022-10-04,2022,10,4,Cholesterol,Public Health,61.54,1
+2022-06-10,2022,6,10,Urinalysis,University Plan,36.36,2
+2023-04-05,2023,4,5,Liver Panel,Self-Pay,102.81,1
+2022-11-10,2022,11,10,Electrolytes,Private Insurance,110.85,1
+2022-01-22,2022,1,22,Glucose,University Plan,46.04,3
+2022-09-10,2022,9,10,Liver Panel,Public Health,134.06,2
+2023-07-15,2023,7,15,TSH,Corporate Plan,97.76,1
+2023-04-20,2023,4,20,Creatinine,Private Insurance,54.65,3
+2022-02-28,2022,2,28,Cholesterol,Self-Pay,53.84,3
+2023-05-26,2023,5,26,HbA1c,University Plan,75.25,2
+2023-11-13,2023,11,13,HbA1c,Other Organization,78.67,1
+2023-04-21,2023,4,21,Liver Panel,University Plan,122.6,1
+2023-12-01,2023,12,1,CRP,Private Insurance,58.78,1
+2022-07-09,2022,7,9,CBC,Public Health,74.45,3
+2023-11-18,2023,11,18,Ferritin,Self-Pay,81.86,2
+2023-07-17,2023,7,17,HbA1c,Private Insurance,64.68,2
+2023-07-21,2023,7,21,CRP,Corporate Plan,61.23,1
+2022-09-01,2022,9,1,HbA1c,Self-Pay,71.16,3
+2023-05-20,2023,5,20,CRP,University Plan,66.72,1
+2022-05-11,2022,5,11,CBC,Private Insurance,78.24,2
+2023-04-30,2023,4,30,Vitamin D,University Plan,113.81,3
+2023-10-09,2023,10,9,HbA1c,University Plan,61.21,1
+2022-01-21,2022,1,21,TSH,University Plan,83.25,1
+2022-06-16,2022,6,16,Electrolytes,Public Health,90.15,3
+2022-10-01,2022,10,1,Cholesterol,University Plan,55.3,2
+2023-01-23,2023,1,23,CRP,Corporate Plan,59.42,3
+2023-08-24,2023,8,24,Electrolytes,Corporate Plan,93.5,1
+2022-11-12,2022,11,12,Cholesterol,Self-Pay,53.36,1
+2022-01-14,2022,1,14,Urinalysis,Other Organization,43.74,1
+2022-08-30,2022,8,30,Urinalysis,University Plan,34.17,1
+2022-12-12,2022,12,12,Ferritin,University Plan,94.03,2
+2023-07-19,2023,7,19,Electrolytes,Private Insurance,105.07,2
+2022-12-06,2022,12,6,CBC,Public Health,87.17,1
+2022-04-02,2022,4,2,CRP,Other Organization,73.44,2
+2023-01-02,2023,1,2,Glucose,Self-Pay,38.52,2
+2023-03-31,2023,3,31,Urinalysis,Other Organization,35.85,2
+2023-03-04,2023,3,4,CBC,University Plan,89.27,1
+2023-05-24,2023,5,24,Electrolytes,Private Insurance,98.76,3
+2022-02-04,2022,2,4,Urinalysis,Public Health,40.78,3
+2022-07-25,2022,7,25,Urinalysis,Self-Pay,41.96,3
+2022-03-22,2022,3,22,Glucose,Other Organization,47.42,1
+2023-07-16,2023,7,16,HbA1c,Self-Pay,79.07,2
+2023-01-23,2023,1,23,Liver Panel,University Plan,137.89,2
+2022-01-02,2022,1,2,Electrolytes,Self-Pay,106.6,1
+2023-01-25,2023,1,25,Ferritin,Private Insurance,84.25,1
+2023-07-20,2023,7,20,Vitamin D,Self-Pay,122.53,3
+2022-04-16,2022,4,16,Urinalysis,Corporate Plan,34.59,3
+2023-04-22,2023,4,22,Electrolytes,Private Insurance,91.93,1
+2023-12-04,2023,12,4,Urinalysis,Other Organization,44.77,3
+2023-02-06,2023,2,6,TSH,Public Health,88.05,2
+2023-12-31,2023,12,31,Vitamin D,Public Health,100.78,1
+2023-07-10,2023,7,10,Glucose,University Plan,40.11,1
+2022-06-11,2022,6,11,Cholesterol,University Plan,60.93,2
+2022-07-21,2022,7,21,CRP,Corporate Plan,65.0,2
+2022-09-27,2022,9,27,Urinalysis,Other Organization,42.1,2
+2022-09-28,2022,9,28,Liver Panel,Public Health,110.61,3
+2023-04-01,2023,4,1,CRP,Public Health,70.03,1
+2023-04-07,2023,4,7,Vitamin D,Public Health,118.58,3
+2023-12-28,2023,12,28,CRP,Public Health,61.35,2
+2022-09-09,2022,9,9,HbA1c,Self-Pay,68.12,3
+2023-12-03,2023,12,3,Urinalysis,Other Organization,36.52,2
+2022-10-23,2022,10,23,CRP,Private Insurance,74.29,3
+2023-12-26,2023,12,26,Cholesterol,Private Insurance,57.4,3
+2023-12-21,2023,12,21,Cholesterol,Corporate Plan,62.17,2
+2022-12-04,2022,12,4,Urinalysis,Self-Pay,37.64,3
+2022-02-22,2022,2,22,Creatinine,Public Health,54.23,1
+2022-08-05,2022,8,5,Cholesterol,Public Health,59.39,3
+2022-07-07,2022,7,7,CRP,University Plan,68.74,3
+2023-01-15,2023,1,15,Ferritin,University Plan,102.57,1
+2023-05-08,2023,5,8,CBC,Corporate Plan,77.45,2
+2022-02-10,2022,2,10,Cholesterol,Public Health,48.91,1
+2022-06-06,2022,6,6,Electrolytes,Corporate Plan,105.15,3
+2022-01-15,2022,1,15,Vitamin D,Self-Pay,117.57,2
+2022-03-06,2022,3,6,Creatinine,Private Insurance,51.13,3
+2023-06-05,2023,6,5,Electrolytes,Public Health,91.2,3
+2022-12-10,2022,12,10,CRP,Other Organization,65.09,1
+2022-05-09,2022,5,9,Glucose,Self-Pay,42.46,1
+2023-10-10,2023,10,10,TSH,Public Health,92.93,2
+2023-04-17,2023,4,17,Glucose,Other Organization,46.96,2
+2022-03-04,2022,3,4,HbA1c,University Plan,75.15,2
+2022-05-19,2022,5,19,Electrolytes,Corporate Plan,91.97,3
+2023-05-14,2023,5,14,TSH,University Plan,92.3,1
+2023-08-16,2023,8,16,HbA1c,Private Insurance,65.15,1
+2023-01-27,2023,1,27,TSH,University Plan,86.41,1
+2023-11-06,2023,11,6,TSH,Public Health,103.08,2
+2023-02-23,2023,2,23,CBC,Other Organization,89.82,1
+2022-10-16,2022,10,16,Liver Panel,University Plan,115.33,1
+2023-01-14,2023,1,14,Vitamin D,Public Health,118.29,1
+2023-05-05,2023,5,5,Glucose,Private Insurance,50.36,2
+2022-08-19,2022,8,19,Cholesterol,Other Organization,60.71,1
+2022-02-10,2022,2,10,CRP,University Plan,58.81,2
+2022-01-28,2022,1,28,Creatinine,Corporate Plan,56.84,1
+2022-05-15,2022,5,15,Vitamin D,Corporate Plan,105.93,1
+2022-07-20,2022,7,20,HbA1c,Other Organization,66.62,1
+2022-02-02,2022,2,2,CBC,Corporate Plan,69.5,2
+2022-02-17,2022,2,17,HbA1c,University Plan,69.71,2
+2023-05-18,2023,5,18,Liver Panel,University Plan,105.92,1
+2023-02-11,2023,2,11,Creatinine,Other Organization,46.23,3
+2023-07-28,2023,7,28,CBC,University Plan,75.61,2
+2023-12-29,2023,12,29,HbA1c,Public Health,76.49,2
+2022-04-09,2022,4,9,Liver Panel,Private Insurance,133.52,1
+2023-11-15,2023,11,15,CRP,Corporate Plan,61.15,3
+2023-12-27,2023,12,27,CRP,Public Health,71.99,1
+2023-07-01,2023,7,1,HbA1c,Other Organization,77.5,2
+2023-09-05,2023,9,5,Vitamin D,Corporate Plan,118.73,2
+2023-04-07,2023,4,7,Creatinine,Public Health,44.7,1
+2023-10-05,2023,10,5,Urinalysis,University Plan,42.28,1
+2022-01-05,2022,1,5,Vitamin D,Other Organization,124.69,3
+2022-08-06,2022,8,6,CRP,Other Organization,68.56,3
+2023-05-18,2023,5,18,Creatinine,Corporate Plan,47.47,2
+2023-02-02,2023,2,2,Liver Panel,University Plan,120.02,3
+2023-01-28,2023,1,28,CBC,Corporate Plan,83.5,3
+2022-07-26,2022,7,26,Ferritin,Self-Pay,90.29,2
+2022-01-15,2022,1,15,Electrolytes,Public Health,88.6,2
+2023-07-08,2023,7,8,TSH,Self-Pay,89.64,2
+2023-04-06,2023,4,6,HbA1c,Public Health,76.35,2
+2023-11-22,2023,11,22,Ferritin,Private Insurance,99.76,1
+2023-07-29,2023,7,29,Glucose,Other Organization,40.1,2
+2022-08-29,2022,8,29,Creatinine,Corporate Plan,56.79,2
+2023-07-18,2023,7,18,Electrolytes,Private Insurance,94.86,2
+2022-04-06,2022,4,6,Cholesterol,Private Insurance,57.68,3
+2023-04-30,2023,4,30,Liver Panel,Other Organization,129.07,2
+2023-02-11,2023,2,11,Urinalysis,Other Organization,43.74,1
+2022-08-19,2022,8,19,TSH,Public Health,107.7,1
+2023-10-17,2023,10,17,Cholesterol,Self-Pay,51.91,2
+2022-06-20,2022,6,20,Urinalysis,University Plan,44.3,1
+2023-06-25,2023,6,25,Glucose,Public Health,40.03,3
+2022-02-05,2022,2,5,CRP,University Plan,69.0,2
+2023-06-09,2023,6,9,Vitamin D,Private Insurance,117.99,1
+2022-06-09,2022,6,9,HbA1c,University Plan,73.73,1
+2023-11-30,2023,11,30,CBC,Self-Pay,74.06,2
+2022-08-31,2022,8,31,Urinalysis,Public Health,44.48,1
+2022-03-27,2022,3,27,TSH,Other Organization,85.56,2
+2023-08-01,2023,8,1,Ferritin,Self-Pay,77.95,1
+2023-11-13,2023,11,13,Creatinine,Self-Pay,53.26,3
+2023-07-11,2023,7,11,CRP,Public Health,64.52,1
+2023-07-28,2023,7,28,Creatinine,Other Organization,55.24,1
+2023-10-08,2023,10,8,TSH,Self-Pay,91.68,2
+2022-01-28,2022,1,28,Creatinine,Other Organization,45.02,1
+2023-09-12,2023,9,12,Urinalysis,Corporate Plan,44.04,2
+2023-07-10,2023,7,10,Ferritin,Corporate Plan,91.32,3
+2022-12-06,2022,12,6,Liver Panel,Corporate Plan,108.81,2
+2022-11-27,2022,11,27,Creatinine,University Plan,53.31,2
+2023-10-02,2023,10,2,Vitamin D,Self-Pay,110.37,1
+2023-05-21,2023,5,21,Ferritin,Public Health,92.82,3
+2022-12-14,2022,12,14,Glucose,Public Health,44.47,2
+2023-04-18,2023,4,18,CBC,University Plan,87.89,1
+2022-08-19,2022,8,19,Urinalysis,Public Health,43.95,1
+2022-07-09,2022,7,9,Electrolytes,Corporate Plan,106.28,2
+2022-08-13,2022,8,13,Cholesterol,Self-Pay,48.49,1
+2023-01-20,2023,1,20,Ferritin,Public Health,99.15,2
+2023-01-12,2023,1,12,Electrolytes,Public Health,105.13,2
+2022-10-10,2022,10,10,Electrolytes,Private Insurance,105.91,2
+2023-09-25,2023,9,25,Electrolytes,Private Insurance,95.89,3
+2023-09-20,2023,9,20,TSH,Private Insurance,105.81,2
+2022-09-16,2022,9,16,CRP,Self-Pay,69.39,1
+2022-12-25,2022,12,25,Ferritin,Corporate Plan,79.54,3
+2023-12-11,2023,12,11,Urinalysis,Other Organization,38.89,1
+2023-04-01,2023,4,1,Liver Panel,Corporate Plan,133.91,3
+2023-02-15,2023,2,15,Electrolytes,Corporate Plan,86.42,3
+2023-10-11,2023,10,11,CRP,Self-Pay,74.0,3
+2022-11-14,2022,11,14,Vitamin D,Self-Pay,115.91,3
+2023-11-08,2023,11,8,TSH,Private Insurance,98.74,1
+2022-08-13,2022,8,13,CRP,Public Health,60.53,2
+2022-08-22,2022,8,22,Creatinine,University Plan,46.23,1
+2023-11-15,2023,11,15,Urinalysis,University Plan,45.3,2
+2023-10-26,2023,10,26,Glucose,Other Organization,42.28,1
+2023-01-09,2023,1,9,TSH,Public Health,102.85,3
+2023-11-03,2023,11,3,HbA1c,Other Organization,67.76,3
+2023-08-31,2023,8,31,Vitamin D,Private Insurance,98.1,2
+2023-04-17,2023,4,17,Electrolytes,Other Organization,85.32,2
+2022-08-21,2022,8,21,CBC,Public Health,81.06,1
+2023-11-23,2023,11,23,TSH,Public Health,108.56,2
+2022-04-23,2022,4,23,Liver Panel,University Plan,115.29,1
+2023-05-12,2023,5,12,Urinalysis,Private Insurance,38.29,2
+2023-03-18,2023,3,18,Creatinine,Self-Pay,47.66,2
+2023-07-18,2023,7,18,CBC,Other Organization,80.49,2
+2022-09-25,2022,9,25,CBC,University Plan,78.58,3
+2023-05-25,2023,5,25,Vitamin D,Other Organization,122.54,3
+2023-01-21,2023,1,21,CRP,Other Organization,65.11,1
+2023-01-22,2023,1,22,Liver Panel,Self-Pay,120.28,2
+2022-04-23,2022,4,23,CRP,Private Insurance,57.95,1
+2023-09-05,2023,9,5,Creatinine,Public Health,57.24,2
+2023-09-17,2023,9,17,CBC,Corporate Plan,74.0,3
+2022-03-22,2022,3,22,Liver Panel,Other Organization,104.64,3
+2023-11-30,2023,11,30,Liver Panel,Corporate Plan,125.87,2
+2022-04-23,2022,4,23,Cholesterol,Private Insurance,56.57,2
+2022-01-02,2022,1,2,Urinalysis,Corporate Plan,38.98,3
+2023-10-04,2023,10,4,CBC,Other Organization,78.13,3
+2022-08-08,2022,8,8,CBC,Self-Pay,86.84,1
+2023-07-20,2023,7,20,Liver Panel,Corporate Plan,109.05,3
+2022-08-13,2022,8,13,CRP,Private Insurance,71.24,2
+2023-01-20,2023,1,20,CBC,Private Insurance,83.57,1
+2023-02-07,2023,2,7,Liver Panel,Self-Pay,117.08,2
+2023-09-30,2023,9,30,CBC,Corporate Plan,78.99,1
+2022-05-10,2022,5,10,Liver Panel,Corporate Plan,111.24,2
+2022-02-22,2022,2,22,Cholesterol,Public Health,59.16,3
+2023-11-15,2023,11,15,Urinalysis,University Plan,40.15,2
+2023-12-31,2023,12,31,Liver Panel,Private Insurance,113.55,1
+2023-11-03,2023,11,3,Ferritin,Public Health,92.59,2
+2023-12-11,2023,12,11,CBC,Private Insurance,91.9,1
+2023-02-20,2023,2,20,Creatinine,Public Health,49.03,2
+2022-09-04,2022,9,4,Urinalysis,University Plan,45.05,3
+2023-03-15,2023,3,15,Cholesterol,Public Health,52.44,3
+2022-07-22,2022,7,22,Electrolytes,Private Insurance,86.64,2
+2022-07-03,2022,7,3,Liver Panel,Corporate Plan,109.35,2
+2022-05-03,2022,5,3,Creatinine,Private Insurance,48.78,2
+2023-02-05,2023,2,5,Liver Panel,Other Organization,109.91,1
+2022-10-21,2022,10,21,CRP,Self-Pay,55.25,2
+2022-10-07,2022,10,7,CBC,Self-Pay,89.96,2
+2023-09-02,2023,9,2,TSH,Other Organization,104.8,1
+2022-07-17,2022,7,17,Vitamin D,Self-Pay,118.0,3
+2023-05-26,2023,5,26,Glucose,Self-Pay,40.52,2
+2022-05-24,2022,5,24,CRP,University Plan,57.6,2
+2023-09-01,2023,9,1,Creatinine,Corporate Plan,43.51,3
+2022-07-20,2022,7,20,CRP,Corporate Plan,69.37,3
+2022-05-04,2022,5,4,HbA1c,Private Insurance,79.0,1
+2022-07-06,2022,7,6,Liver Panel,Other Organization,117.5,2
+2022-11-22,2022,11,22,Liver Panel,Public Health,106.29,2
+2023-04-09,2023,4,9,Ferritin,Private Insurance,90.33,1
+2022-12-15,2022,12,15,Glucose,Private Insurance,42.96,3
+2023-10-22,2023,10,22,Glucose,Private Insurance,43.31,1
+2023-02-07,2023,2,7,HbA1c,Private Insurance,72.55,3
+2022-12-12,2022,12,12,CBC,Corporate Plan,85.25,1
+2023-05-26,2023,5,26,Vitamin D,Public Health,97.15,3
+2022-05-27,2022,5,27,TSH,Private Insurance,81.76,1
+2022-05-28,2022,5,28,Electrolytes,Corporate Plan,114.83,3
+2023-12-12,2023,12,12,TSH,Private Insurance,87.38,3
+2023-05-04,2023,5,4,Cholesterol,Self-Pay,47.64,3
+2023-10-02,2023,10,2,Ferritin,Private Insurance,81.63,3
+2023-07-05,2023,7,5,Electrolytes,Other Organization,86.17,3
+2022-12-04,2022,12,4,Cholesterol,Other Organization,53.21,2
+2023-10-03,2023,10,3,CBC,Private Insurance,87.26,3
+2023-04-18,2023,4,18,Cholesterol,University Plan,52.38,2
+2022-05-31,2022,5,31,Cholesterol,Self-Pay,54.08,3
+2023-02-19,2023,2,19,HbA1c,Public Health,73.69,2
+2022-10-25,2022,10,25,HbA1c,Private Insurance,70.19,2
+2023-09-03,2023,9,3,Cholesterol,Public Health,60.96,1
+2022-09-20,2022,9,20,CRP,Self-Pay,72.14,3
+2022-05-24,2022,5,24,Electrolytes,Private Insurance,85.3,1
+2022-12-12,2022,12,12,Urinalysis,University Plan,43.34,1
+2023-09-16,2023,9,16,Urinalysis,Corporate Plan,39.53,3
+2023-07-26,2023,7,26,CBC,University Plan,91.73,1
+2022-01-02,2022,1,2,TSH,University Plan,94.52,3
+2022-10-31,2022,10,31,Ferritin,Corporate Plan,103.15,1
+2022-09-11,2022,9,11,Glucose,Corporate Plan,48.44,3
+2023-10-14,2023,10,14,CBC,Other Organization,73.97,3
+2023-03-29,2023,3,29,Cholesterol,Corporate Plan,55.63,3
+2022-02-06,2022,2,6,HbA1c,Private Insurance,80.33,2
+2022-06-09,2022,6,9,Liver Panel,Public Health,132.87,1
+2022-01-09,2022,1,9,CRP,Other Organization,57.15,2
+2022-08-21,2022,8,21,Creatinine,Other Organization,53.1,1
+2022-04-09,2022,4,9,HbA1c,Public Health,66.76,1
+2023-10-21,2023,10,21,Urinalysis,Other Organization,34.08,1
+2022-07-27,2022,7,27,Ferritin,Corporate Plan,87.39,2
+2022-05-11,2022,5,11,Electrolytes,University Plan,92.04,1
+2023-02-08,2023,2,8,HbA1c,Self-Pay,76.7,2
+2022-06-01,2022,6,1,CRP,Corporate Plan,61.83,3
+2022-02-23,2022,2,23,Electrolytes,University Plan,109.83,1
+2022-04-30,2022,4,30,Glucose,University Plan,38.26,1
+2023-11-04,2023,11,4,Cholesterol,Other Organization,51.83,3
+2023-09-20,2023,9,20,Liver Panel,Private Insurance,110.68,3
+2023-08-10,2023,8,10,Urinalysis,Private Insurance,36.8,1
+2023-09-17,2023,9,17,Urinalysis,Other Organization,34.82,3
+2023-02-24,2023,2,24,Ferritin,Other Organization,81.55,2
+2023-02-26,2023,2,26,Vitamin D,Public Health,111.83,2
+2022-04-14,2022,4,14,TSH,Public Health,89.05,1
+2022-09-11,2022,9,11,Glucose,Self-Pay,43.88,2
+2022-08-15,2022,8,15,Urinalysis,Self-Pay,38.52,2
+2022-04-22,2022,4,22,TSH,Self-Pay,105.71,1
+2023-05-25,2023,5,25,Urinalysis,Self-Pay,44.86,3
+2023-04-18,2023,4,18,Electrolytes,University Plan,99.79,1
+2022-04-09,2022,4,9,Cholesterol,University Plan,52.2,2
+2022-06-02,2022,6,2,TSH,Public Health,83.79,1
+2022-12-04,2022,12,4,CRP,Private Insurance,73.84,1
+2023-12-07,2023,12,7,Vitamin D,Other Organization,95.49,2
+2022-06-12,2022,6,12,Cholesterol,Private Insurance,51.66,2
+2023-12-21,2023,12,21,CRP,Corporate Plan,61.06,1
+2023-11-12,2023,11,12,Liver Panel,University Plan,113.53,2
+2022-06-10,2022,6,10,Glucose,Self-Pay,40.47,2
+2023-08-03,2023,8,3,Glucose,Self-Pay,48.82,2
+2023-02-02,2023,2,2,Creatinine,Corporate Plan,44.34,2
+2022-10-04,2022,10,4,Creatinine,Private Insurance,52.02,2
+2023-05-19,2023,5,19,TSH,Self-Pay,84.28,2
+2023-01-27,2023,1,27,Electrolytes,Private Insurance,87.12,3
+2022-05-15,2022,5,15,Glucose,Other Organization,50.53,1
+2022-07-14,2022,7,14,Ferritin,Corporate Plan,81.63,2
+2023-02-05,2023,2,5,TSH,Private Insurance,104.16,1
+2023-10-02,2023,10,2,Creatinine,Other Organization,50.67,3
+2022-02-02,2022,2,2,Liver Panel,Private Insurance,104.8,2
+2023-11-19,2023,11,19,Urinalysis,Private Insurance,45.47,1
+2023-04-05,2023,4,5,CRP,Self-Pay,60.07,2
+2023-04-15,2023,4,15,Electrolytes,Public Health,110.79,2
+2023-01-10,2023,1,10,HbA1c,University Plan,63.05,2
+2022-01-22,2022,1,22,TSH,Private Insurance,105.09,2
+2023-11-01,2023,11,1,Liver Panel,Private Insurance,102.48,2
+2022-02-07,2022,2,7,CRP,Private Insurance,65.23,2
+2022-08-18,2022,8,18,Glucose,Public Health,48.64,2
+2022-12-31,2022,12,31,Urinalysis,Other Organization,45.22,3
+2023-07-17,2023,7,17,CRP,Corporate Plan,72.98,3
+2023-03-14,2023,3,14,Vitamin D,Self-Pay,120.55,2
+2022-10-10,2022,10,10,Creatinine,Public Health,55.82,2
+2022-01-27,2022,1,27,CRP,Other Organization,59.13,3
+2022-08-14,2022,8,14,HbA1c,Private Insurance,65.47,3
+2022-10-04,2022,10,4,Liver Panel,Other Organization,112.4,3
+2023-09-01,2023,9,1,Urinalysis,Public Health,38.52,2
+2022-10-11,2022,10,11,Ferritin,Public Health,87.12,1
+2023-04-26,2023,4,26,Cholesterol,Public Health,55.74,1
+2023-03-29,2023,3,29,CRP,Corporate Plan,58.37,1
+2023-10-21,2023,10,21,Ferritin,University Plan,95.16,1
+2023-05-31,2023,5,31,Ferritin,Self-Pay,81.02,2
+2023-07-01,2023,7,1,CBC,Corporate Plan,75.45,1
+2022-07-11,2022,7,11,HbA1c,Corporate Plan,70.07,3
+2022-02-18,2022,2,18,HbA1c,University Plan,76.23,3
+2023-05-27,2023,5,27,CBC,Corporate Plan,85.75,1
+2022-01-17,2022,1,17,Vitamin D,Public Health,114.8,3
+2022-06-21,2022,6,21,Cholesterol,Public Health,49.32,2
+2022-08-08,2022,8,8,Creatinine,Other Organization,50.71,1
+2022-06-07,2022,6,7,Liver Panel,Private Insurance,105.15,1
+2023-04-22,2023,4,22,Urinalysis,Corporate Plan,38.53,2
+2022-02-15,2022,2,15,Liver Panel,Private Insurance,116.89,3
+2023-01-08,2023,1,8,Cholesterol,Self-Pay,47.41,2
+2023-06-02,2023,6,2,Liver Panel,Public Health,111.86,2
+2022-04-09,2022,4,9,CBC,Other Organization,90.94,3
+2022-02-06,2022,2,6,HbA1c,Self-Pay,79.53,2
+2022-10-07,2022,10,7,Liver Panel,Other Organization,114.68,3
+2022-12-15,2022,12,15,TSH,University Plan,81.98,3
+2023-05-12,2023,5,12,Ferritin,Public Health,81.34,2
+2022-10-29,2022,10,29,Ferritin,Self-Pay,87.09,3
+2022-06-30,2022,6,30,CRP,University Plan,73.73,2
+2023-08-30,2023,8,30,Cholesterol,Self-Pay,49.08,3
+2022-04-09,2022,4,9,Vitamin D,Other Organization,118.7,1
+2023-12-01,2023,12,1,Electrolytes,University Plan,88.26,3
+2022-04-26,2022,4,26,Electrolytes,University Plan,114.44,3
+2022-07-10,2022,7,10,TSH,Public Health,91.63,2
+2022-09-10,2022,9,10,CBC,Private Insurance,86.61,3
+2022-06-10,2022,6,10,Glucose,Other Organization,42.87,1
+2022-09-13,2022,9,13,CBC,Other Organization,83.06,1
+2022-11-19,2022,11,19,Ferritin,University Plan,81.68,3
+2022-05-08,2022,5,8,Vitamin D,University Plan,98.32,3
+2022-01-18,2022,1,18,Vitamin D,Public Health,124.46,1
+2023-07-20,2023,7,20,TSH,Private Insurance,106.9,2
+2023-07-24,2023,7,24,CRP,Other Organization,72.56,1
+2022-11-19,2022,11,19,Cholesterol,Corporate Plan,57.07,1
+2023-11-17,2023,11,17,Creatinine,Corporate Plan,54.62,3
+2023-09-18,2023,9,18,HbA1c,Private Insurance,60.95,3
+2022-10-15,2022,10,15,TSH,Self-Pay,90.29,1
+2023-10-25,2023,10,25,Vitamin D,Public Health,103.85,2
+2023-10-01,2023,10,1,Electrolytes,Private Insurance,104.07,1
+2022-06-04,2022,6,4,Glucose,Corporate Plan,43.06,1
+2023-05-05,2023,5,5,Urinalysis,University Plan,35.78,2
+2023-01-21,2023,1,21,Vitamin D,Corporate Plan,113.18,1
+2022-04-14,2022,4,14,CRP,University Plan,71.13,1
+2023-01-28,2023,1,28,CRP,Public Health,62.7,3
+2022-09-03,2022,9,3,Vitamin D,University Plan,97.86,2
+2022-06-25,2022,6,25,CRP,Private Insurance,59.09,3
+2022-02-08,2022,2,8,TSH,University Plan,87.52,3
+2023-04-22,2023,4,22,Vitamin D,Self-Pay,103.4,2
+2023-11-13,2023,11,13,Vitamin D,Private Insurance,114.71,2
+2023-06-22,2023,6,22,Cholesterol,Public Health,56.67,1
+2023-02-12,2023,2,12,HbA1c,Private Insurance,74.12,3
+2023-06-09,2023,6,9,Glucose,Self-Pay,43.14,2
+2023-05-21,2023,5,21,CRP,Public Health,71.32,3
+2022-02-05,2022,2,5,Cholesterol,Corporate Plan,50.12,3
+2023-11-16,2023,11,16,Ferritin,Self-Pay,89.16,2
+2022-01-20,2022,1,20,Ferritin,Public Health,98.13,1
+2022-11-17,2022,11,17,Creatinine,University Plan,45.2,3
+2023-05-27,2023,5,27,Creatinine,Private Insurance,44.15,2
+2023-02-04,2023,2,4,Liver Panel,Public Health,133.81,1
+2023-10-16,2023,10,16,TSH,Private Insurance,90.52,3
+2023-04-16,2023,4,16,TSH,University Plan,100.24,2
+2022-05-23,2022,5,23,CBC,Public Health,68.61,3
+2022-04-02,2022,4,2,Glucose,Corporate Plan,47.57,2
+2022-12-20,2022,12,20,Electrolytes,Self-Pay,94.48,2
+2023-12-28,2023,12,28,Vitamin D,Public Health,95.34,3
+2022-02-20,2022,2,20,CRP,University Plan,67.14,3
+2023-10-27,2023,10,27,Glucose,Public Health,41.5,2
+2023-11-29,2023,11,29,Liver Panel,Private Insurance,115.93,1
+2023-07-29,2023,7,29,Ferritin,Other Organization,78.68,3
+2022-07-09,2022,7,9,Ferritin,Public Health,80.47,2
+2022-05-05,2022,5,5,CBC,Corporate Plan,75.15,2
+2022-05-30,2022,5,30,Cholesterol,Public Health,48.23,1
+2022-11-10,2022,11,10,Glucose,Self-Pay,50.55,1
+2023-07-24,2023,7,24,Cholesterol,Public Health,46.85,1
+2022-12-08,2022,12,8,Creatinine,Other Organization,49.76,3
+2022-11-01,2022,11,1,Ferritin,Private Insurance,79.83,2
+2023-11-23,2023,11,23,CRP,Public Health,61.25,2
+2023-11-13,2023,11,13,Liver Panel,Corporate Plan,135.34,2
+2022-02-23,2022,2,23,Vitamin D,University Plan,98.84,1
+2023-03-20,2023,3,20,Electrolytes,Public Health,113.97,2
+2023-09-05,2023,9,5,Ferritin,Public Health,82.06,3
+2022-09-21,2022,9,21,CRP,Self-Pay,69.71,1
+2022-02-22,2022,2,22,Electrolytes,Corporate Plan,101.4,1
+2023-07-26,2023,7,26,Electrolytes,Other Organization,111.53,1
+2023-09-12,2023,9,12,HbA1c,University Plan,71.13,1
+2022-01-05,2022,1,5,TSH,Private Insurance,95.98,3
+2022-04-13,2022,4,13,Liver Panel,Public Health,109.04,2
+2022-07-15,2022,7,15,Glucose,Other Organization,40.49,3
+2022-12-16,2022,12,16,CRP,University Plan,73.12,2
+2022-02-16,2022,2,16,Ferritin,Private Insurance,85.35,3
+2023-10-18,2023,10,18,Ferritin,Other Organization,86.55,1
+2022-09-26,2022,9,26,Ferritin,Corporate Plan,97.02,1
+2023-01-05,2023,1,5,Urinalysis,Corporate Plan,38.07,3
+2023-09-28,2023,9,28,TSH,University Plan,107.88,3
+2022-04-16,2022,4,16,TSH,Private Insurance,101.78,2
+2023-11-01,2023,11,1,Urinalysis,Corporate Plan,41.17,3
+2023-10-21,2023,10,21,Electrolytes,University Plan,111.43,3
+2023-10-19,2023,10,19,Electrolytes,Corporate Plan,86.49,2
+2022-04-30,2022,4,30,Ferritin,Corporate Plan,83.44,2
+2023-08-27,2023,8,27,CBC,Other Organization,79.16,2
+2022-02-27,2022,2,27,CBC,Other Organization,73.45,3
+2022-12-12,2022,12,12,Urinalysis,Corporate Plan,42.93,2
+2023-04-19,2023,4,19,HbA1c,Self-Pay,78.8,1
+2022-04-27,2022,4,27,Creatinine,Other Organization,48.86,1
+2022-05-07,2022,5,7,Urinalysis,Private Insurance,38.11,1
+2023-01-28,2023,1,28,Creatinine,University Plan,56.92,3
+2023-10-03,2023,10,3,CRP,University Plan,63.92,1
+2022-02-27,2022,2,27,HbA1c,Private Insurance,69.77,3
+2023-09-26,2023,9,26,Electrolytes,Private Insurance,95.55,3
+2023-05-28,2023,5,28,Liver Panel,Private Insurance,134.74,1
+2022-04-06,2022,4,6,Electrolytes,Private Insurance,102.07,2
+2023-09-30,2023,9,30,Creatinine,Public Health,53.93,3
+2022-04-28,2022,4,28,TSH,University Plan,103.89,1
+2023-07-14,2023,7,14,CRP,Public Health,61.92,3
+2023-08-24,2023,8,24,TSH,Corporate Plan,93.11,2
+2023-05-03,2023,5,3,HbA1c,Corporate Plan,77.32,2
+2022-08-25,2022,8,25,Electrolytes,University Plan,95.9,1
+2022-09-29,2022,9,29,Creatinine,Corporate Plan,54.41,3
+2022-07-08,2022,7,8,Cholesterol,Private Insurance,62.28,3
+2023-12-05,2023,12,5,HbA1c,Public Health,72.59,3
+2023-03-23,2023,3,23,HbA1c,Private Insurance,75.07,3
+2023-08-04,2023,8,4,Cholesterol,Corporate Plan,60.03,1
+2022-09-04,2022,9,4,CRP,Other Organization,71.73,2
+2022-03-17,2022,3,17,Creatinine,Public Health,48.43,1
+2022-06-03,2022,6,3,Creatinine,Private Insurance,43.27,3
+2023-10-18,2023,10,18,Ferritin,University Plan,87.35,3
+2023-03-11,2023,3,11,TSH,Private Insurance,99.95,2
+2022-03-27,2022,3,27,HbA1c,Other Organization,68.96,3
+2023-11-28,2023,11,28,HbA1c,Corporate Plan,75.23,1
+2022-10-12,2022,10,12,Vitamin D,Public Health,105.28,1
+2022-08-08,2022,8,8,Liver Panel,University Plan,124.85,2
+2022-03-10,2022,3,10,HbA1c,Public Health,63.41,1
+2022-02-16,2022,2,16,Glucose,University Plan,48.37,1
+2022-04-04,2022,4,4,Liver Panel,Public Health,121.65,1
+2023-03-29,2023,3,29,Glucose,Corporate Plan,41.0,1
+2022-07-23,2022,7,23,Creatinine,University Plan,46.88,3
+2022-08-06,2022,8,6,Liver Panel,Self-Pay,128.95,1
+2023-04-19,2023,4,19,HbA1c,Public Health,69.63,2
+2023-03-08,2023,3,8,Cholesterol,Public Health,50.31,2
+2022-12-07,2022,12,7,TSH,Private Insurance,108.32,1
+2023-07-05,2023,7,5,Glucose,University Plan,47.9,2
+2023-09-04,2023,9,4,Ferritin,Other Organization,102.34,1
+2022-10-16,2022,10,16,Liver Panel,Self-Pay,117.38,2
+2022-09-11,2022,9,11,HbA1c,Corporate Plan,69.48,2
+2022-12-23,2022,12,23,Liver Panel,Private Insurance,134.33,1
+2022-01-23,2022,1,23,HbA1c,Self-Pay,70.53,1
+2023-06-06,2023,6,6,HbA1c,University Plan,74.35,3
+2022-04-10,2022,4,10,HbA1c,Self-Pay,64.8,1
+2022-06-29,2022,6,29,Vitamin D,Public Health,108.24,1
+2022-08-11,2022,8,11,TSH,Public Health,84.27,3
+2023-10-21,2023,10,21,Cholesterol,Private Insurance,50.15,1
+2023-03-18,2023,3,18,Cholesterol,University Plan,46.77,1
+2023-08-31,2023,8,31,Liver Panel,University Plan,103.41,3
+2022-11-21,2022,11,21,Liver Panel,Self-Pay,137.18,1
+2023-05-31,2023,5,31,HbA1c,Private Insurance,64.59,1
+2022-01-16,2022,1,16,Vitamin D,University Plan,115.39,3
+2022-12-02,2022,12,2,HbA1c,Other Organization,77.12,3
+2022-09-15,2022,9,15,Vitamin D,Other Organization,111.67,2
+2023-05-12,2023,5,12,HbA1c,Public Health,62.72,1
+2022-06-09,2022,6,9,Glucose,Self-Pay,48.08,2
+2023-04-20,2023,4,20,Glucose,Corporate Plan,46.35,2
+2023-10-26,2023,10,26,Creatinine,Public Health,53.47,3
+2023-11-21,2023,11,21,HbA1c,Private Insurance,75.66,1
+2023-11-06,2023,11,6,TSH,University Plan,108.55,1
+2023-01-15,2023,1,15,Ferritin,Public Health,91.99,3
+2023-06-29,2023,6,29,Creatinine,Corporate Plan,47.62,2
+2023-11-22,2023,11,22,Liver Panel,Corporate Plan,125.34,3
+2023-03-03,2023,3,3,CRP,Other Organization,56.58,1
+2023-09-05,2023,9,5,HbA1c,Private Insurance,78.35,3
+2022-09-25,2022,9,25,Electrolytes,Public Health,88.58,1
+2023-07-31,2023,7,31,Glucose,Self-Pay,42.68,2
+2023-02-21,2023,2,21,CRP,Public Health,71.16,1
+2022-06-17,2022,6,17,Vitamin D,Other Organization,113.21,2
+2022-02-12,2022,2,12,CRP,Corporate Plan,62.93,2
+2023-07-10,2023,7,10,TSH,Private Insurance,94.24,1
+2022-10-12,2022,10,12,HbA1c,Private Insurance,77.45,1
+2023-02-01,2023,2,1,Cholesterol,Self-Pay,52.36,2
+2022-01-12,2022,1,12,CRP,Private Insurance,72.21,3
+2023-08-30,2023,8,30,Cholesterol,Other Organization,48.2,1
+2022-10-29,2022,10,29,Vitamin D,Other Organization,119.13,2
+2022-09-10,2022,9,10,Creatinine,Other Organization,55.21,2
+2023-05-14,2023,5,14,Cholesterol,Private Insurance,49.75,3
+2022-02-04,2022,2,4,Creatinine,Private Insurance,48.96,1
+2023-12-28,2023,12,28,Glucose,Other Organization,40.48,2
+2022-03-31,2022,3,31,Ferritin,Private Insurance,95.58,3
+2023-08-28,2023,8,28,HbA1c,Private Insurance,70.74,2
+2023-08-25,2023,8,25,CRP,Corporate Plan,67.64,1
+2023-02-22,2023,2,22,Glucose,Public Health,40.9,3
+2022-04-25,2022,4,25,Glucose,University Plan,41.11,2
+2023-09-09,2023,9,9,Electrolytes,Private Insurance,86.24,3
+2022-07-15,2022,7,15,Urinalysis,University Plan,37.86,1
+2023-05-16,2023,5,16,CBC,University Plan,81.43,3
+2023-09-18,2023,9,18,TSH,Corporate Plan,105.2,1
+2023-05-08,2023,5,8,Creatinine,Private Insurance,52.5,2
+2022-03-16,2022,3,16,Ferritin,Other Organization,88.26,1
+2023-02-17,2023,2,17,Urinalysis,University Plan,45.44,2
+2023-01-11,2023,1,11,CBC,Private Insurance,85.26,2
+2023-02-24,2023,2,24,Ferritin,Self-Pay,101.61,1
+2023-12-30,2023,12,30,TSH,Other Organization,95.79,2
+2022-10-04,2022,10,4,Creatinine,Self-Pay,46.38,3
+2023-11-07,2023,11,7,HbA1c,Self-Pay,60.61,2
+2023-01-29,2023,1,29,TSH,University Plan,101.44,1
+2023-04-02,2023,4,2,CRP,Self-Pay,57.62,3
+2022-07-11,2022,7,11,Glucose,Corporate Plan,42.34,3
+2023-11-20,2023,11,20,Electrolytes,Corporate Plan,100.97,2
+2022-04-09,2022,4,9,CBC,University Plan,81.55,2
+2023-07-02,2023,7,2,CBC,Private Insurance,82.41,1
+2022-04-06,2022,4,6,Ferritin,Public Health,80.99,3
+2023-10-26,2023,10,26,Electrolytes,Private Insurance,96.39,1
+2023-10-25,2023,10,25,CBC,Private Insurance,82.81,2
+2022-07-09,2022,7,9,Electrolytes,Private Insurance,114.09,3
+2022-02-06,2022,2,6,Creatinine,Private Insurance,53.41,1
+2023-01-04,2023,1,4,CRP,Other Organization,73.24,1
+2023-11-26,2023,11,26,TSH,Public Health,102.47,1
+2023-06-09,2023,6,9,Glucose,Other Organization,46.24,1
+2022-10-06,2022,10,6,CRP,Self-Pay,58.99,1
+2022-08-05,2022,8,5,Urinalysis,Private Insurance,42.0,3
+2022-09-30,2022,9,30,HbA1c,Corporate Plan,72.59,1
+2022-03-03,2022,3,3,Electrolytes,University Plan,103.07,3
+2023-08-19,2023,8,19,Cholesterol,University Plan,54.83,1
+2023-12-30,2023,12,30,CRP,Other Organization,65.56,2
+2022-12-08,2022,12,8,Ferritin,Other Organization,85.53,2
+2023-02-01,2023,2,1,Urinalysis,Corporate Plan,40.23,1
+2023-11-30,2023,11,30,Glucose,Private Insurance,40.92,2
+2022-01-19,2022,1,19,Ferritin,Public Health,98.24,3
+2022-06-26,2022,6,26,Ferritin,Self-Pay,81.52,1
+2023-09-04,2023,9,4,Cholesterol,University Plan,48.15,3
+2023-01-31,2023,1,31,Electrolytes,Self-Pay,98.09,1
+2023-03-21,2023,3,21,Cholesterol,Public Health,57.61,2
+2022-08-21,2022,8,21,CRP,Other Organization,63.79,3
+2022-03-17,2022,3,17,Ferritin,University Plan,83.97,2
+2022-09-22,2022,9,22,CBC,Self-Pay,81.4,2
+2023-03-31,2023,3,31,Liver Panel,Other Organization,114.49,1
+2023-12-19,2023,12,19,Glucose,Public Health,50.84,3
+2023-01-19,2023,1,19,CBC,Self-Pay,90.14,2
+2023-07-18,2023,7,18,Glucose,Private Insurance,45.03,1
+2023-05-21,2023,5,21,Electrolytes,Other Organization,94.84,1
+2023-01-02,2023,1,2,Liver Panel,Public Health,128.54,1
+2022-05-24,2022,5,24,HbA1c,Self-Pay,60.27,2
+2022-03-10,2022,3,10,Liver Panel,Private Insurance,119.09,1
+2022-04-09,2022,4,9,Electrolytes,Private Insurance,95.09,3
+2023-01-31,2023,1,31,Vitamin D,Public Health,123.88,3
+2022-01-25,2022,1,25,CRP,Corporate Plan,55.48,2
+2023-04-14,2023,4,14,Electrolytes,University Plan,101.58,3
+2023-04-29,2023,4,29,CRP,Public Health,69.69,1
+2023-07-19,2023,7,19,Urinalysis,Private Insurance,39.82,2
+2022-05-31,2022,5,31,CBC,Private Insurance,70.05,1
+2022-05-24,2022,5,24,Urinalysis,Public Health,45.67,2
+2023-07-23,2023,7,23,Vitamin D,Corporate Plan,110.59,2
+2022-02-08,2022,2,8,Liver Panel,University Plan,124.11,1
+2022-04-19,2022,4,19,CRP,Self-Pay,59.86,3
+2023-11-24,2023,11,24,Creatinine,Public Health,49.75,3
+2022-02-11,2022,2,11,Liver Panel,University Plan,117.45,2
+2022-07-05,2022,7,5,Liver Panel,University Plan,104.7,1
+2023-02-02,2023,2,2,Vitamin D,Other Organization,97.0,1
+2022-08-11,2022,8,11,HbA1c,Private Insurance,77.09,2
+2023-09-26,2023,9,26,Glucose,Self-Pay,41.49,3
+2022-05-13,2022,5,13,Ferritin,Public Health,81.76,1
+2022-06-12,2022,6,12,Ferritin,Private Insurance,90.13,3
+2022-08-03,2022,8,3,Vitamin D,Other Organization,118.87,3
+2022-08-23,2022,8,23,Glucose,Other Organization,39.09,2
+2023-10-20,2023,10,20,CRP,Private Insurance,66.5,2
+2023-08-11,2023,8,11,Vitamin D,Corporate Plan,97.43,3
+2022-01-09,2022,1,9,Glucose,University Plan,38.74,1
+2022-03-15,2022,3,15,Electrolytes,Public Health,86.58,1
+2023-05-07,2023,5,7,Urinalysis,Public Health,44.01,2
+2022-09-10,2022,9,10,Vitamin D,Public Health,97.39,3
+2022-08-18,2022,8,18,Electrolytes,Private Insurance,86.35,1
+2023-06-03,2023,6,3,CRP,Corporate Plan,63.79,1
+2022-06-23,2022,6,23,Vitamin D,Self-Pay,121.35,2
+2023-10-15,2023,10,15,CRP,Other Organization,60.37,3
+2022-06-17,2022,6,17,Vitamin D,Private Insurance,107.42,1
+2022-06-19,2022,6,19,Glucose,Self-Pay,38.79,2
+2023-01-28,2023,1,28,HbA1c,Other Organization,68.93,1
+2023-09-26,2023,9,26,TSH,Other Organization,97.21,1
+2022-07-13,2022,7,13,Electrolytes,Corporate Plan,102.13,1
+2023-06-01,2023,6,1,Glucose,University Plan,42.74,2
+2022-01-29,2022,1,29,CBC,Public Health,75.57,3
+2022-06-14,2022,6,14,Cholesterol,Self-Pay,48.51,2
+2023-02-26,2023,2,26,Electrolytes,Private Insurance,96.0,3
+2022-12-05,2022,12,5,HbA1c,Self-Pay,61.59,1
+2023-10-10,2023,10,10,Urinalysis,University Plan,43.2,3
+2023-05-11,2023,5,11,Liver Panel,Public Health,136.79,1
+2022-12-31,2022,12,31,Ferritin,Self-Pay,102.69,1
+2022-12-08,2022,12,8,Glucose,University Plan,49.93,2
+2023-05-15,2023,5,15,Vitamin D,Private Insurance,113.33,1
+2023-10-19,2023,10,19,Glucose,Corporate Plan,47.71,2
+2023-05-26,2023,5,26,Electrolytes,Other Organization,93.56,3
+2022-11-23,2022,11,23,Creatinine,Private Insurance,51.96,3
+2022-08-05,2022,8,5,Electrolytes,Public Health,98.67,1
+2022-10-28,2022,10,28,HbA1c,Other Organization,69.62,2
+2022-05-12,2022,5,12,TSH,Private Insurance,102.35,1
+2022-03-11,2022,3,11,Urinalysis,Private Insurance,37.38,2
+2022-09-09,2022,9,9,Creatinine,Private Insurance,47.27,2
+2023-02-19,2023,2,19,CRP,Private Insurance,73.28,2
+2023-03-21,2023,3,21,Creatinine,Other Organization,43.34,3
+2022-07-01,2022,7,1,Glucose,Public Health,44.81,2
+2022-06-16,2022,6,16,Urinalysis,University Plan,44.95,3
+2022-04-01,2022,4,1,Glucose,Self-Pay,46.49,2
+2023-12-15,2023,12,15,CRP,Corporate Plan,65.9,3
+2023-06-15,2023,6,15,Electrolytes,Self-Pay,92.49,3
+2022-02-08,2022,2,8,Liver Panel,Self-Pay,114.36,3
+2022-05-06,2022,5,6,Urinalysis,Corporate Plan,44.22,1
+2023-03-27,2023,3,27,Liver Panel,Other Organization,122.13,2
+2022-06-22,2022,6,22,HbA1c,Public Health,70.31,1
+2023-10-15,2023,10,15,HbA1c,Corporate Plan,61.59,2
+2022-08-08,2022,8,8,Liver Panel,Public Health,102.58,2
+2023-09-30,2023,9,30,HbA1c,Other Organization,79.74,1
+2022-02-27,2022,2,27,Urinalysis,Self-Pay,38.52,3
+2023-10-22,2023,10,22,Vitamin D,Public Health,113.41,2
+2023-04-21,2023,4,21,CBC,Other Organization,69.91,3
+2023-04-01,2023,4,1,HbA1c,Other Organization,73.85,1
+2022-12-27,2022,12,27,HbA1c,University Plan,79.08,3
+2022-01-01,2022,1,1,Glucose,Corporate Plan,46.02,2
+2023-01-22,2023,1,22,Liver Panel,University Plan,106.54,2
+2022-12-14,2022,12,14,Cholesterol,Self-Pay,56.35,2
+2022-07-09,2022,7,9,TSH,Corporate Plan,102.59,1
+2023-05-20,2023,5,20,Ferritin,Self-Pay,87.47,2
+2022-07-10,2022,7,10,Ferritin,University Plan,100.26,1
+2023-05-23,2023,5,23,Creatinine,Other Organization,52.23,3
+2023-01-04,2023,1,4,HbA1c,Self-Pay,78.38,2
+2023-02-13,2023,2,13,Creatinine,Corporate Plan,51.85,2
+2022-04-27,2022,4,27,Urinalysis,Corporate Plan,35.58,2
+2022-05-14,2022,5,14,Cholesterol,Self-Pay,51.86,3
+2022-02-27,2022,2,27,TSH,Corporate Plan,86.5,2
+2023-07-10,2023,7,10,Liver Panel,Other Organization,134.72,1
+2023-11-16,2023,11,16,Electrolytes,Other Organization,107.81,3
+2023-11-03,2023,11,3,CBC,Corporate Plan,84.23,3
+2022-06-22,2022,6,22,TSH,Self-Pay,89.33,3
+2022-05-29,2022,5,29,TSH,University Plan,86.0,3
+2022-03-21,2022,3,21,Electrolytes,Corporate Plan,107.69,3
+2022-08-01,2022,8,1,CBC,Corporate Plan,79.38,1
+2022-07-22,2022,7,22,Vitamin D,Corporate Plan,100.95,3
+2022-08-17,2022,8,17,Liver Panel,Corporate Plan,124.2,2
+2023-11-07,2023,11,7,Electrolytes,Self-Pay,86.21,3
+2022-08-15,2022,8,15,Glucose,University Plan,42.65,3
+2023-10-21,2023,10,21,Creatinine,University Plan,49.53,3
+2023-06-16,2023,6,16,Ferritin,Public Health,80.49,3
+2023-03-17,2023,3,17,HbA1c,Corporate Plan,80.18,3
+2023-02-06,2023,2,6,TSH,Corporate Plan,86.71,1
+2022-02-16,2022,2,16,Urinalysis,Public Health,35.56,1
+2022-08-21,2022,8,21,Ferritin,University Plan,82.0,3
+2022-11-01,2022,11,1,Ferritin,Private Insurance,97.26,1
+2023-06-10,2023,6,10,CBC,Other Organization,78.21,2
+2022-05-23,2022,5,23,Creatinine,Private Insurance,50.98,3
+2023-02-19,2023,2,19,Cholesterol,University Plan,47.1,2
+2023-05-28,2023,5,28,CBC,Corporate Plan,68.83,2
+2023-01-08,2023,1,8,Electrolytes,Private Insurance,98.37,3
+2023-07-20,2023,7,20,Cholesterol,Self-Pay,60.22,2
+2022-09-16,2022,9,16,Liver Panel,Self-Pay,133.87,2
+2023-10-18,2023,10,18,TSH,Public Health,83.22,2
+2023-04-16,2023,4,16,Urinalysis,University Plan,40.46,3
+2022-01-12,2022,1,12,Ferritin,University Plan,101.16,3
+2022-11-26,2022,11,26,HbA1c,Private Insurance,67.65,2
+2022-12-24,2022,12,24,Cholesterol,Corporate Plan,60.44,3
+2023-02-12,2023,2,12,Creatinine,University Plan,44.51,3
+2023-10-30,2023,10,30,Vitamin D,Private Insurance,124.37,2
+2023-01-08,2023,1,8,Liver Panel,Private Insurance,129.05,3
+2022-01-08,2022,1,8,Vitamin D,Other Organization,124.56,1
+2022-05-02,2022,5,2,Liver Panel,Other Organization,126.36,3
+2022-12-14,2022,12,14,Glucose,University Plan,43.16,1
+2023-11-07,2023,11,7,Creatinine,Private Insurance,56.57,2
+2022-03-31,2022,3,31,Electrolytes,Public Health,93.27,3
+2023-10-10,2023,10,10,Ferritin,Public Health,85.47,2
+2023-11-29,2023,11,29,Vitamin D,Other Organization,116.63,2
+2022-11-12,2022,11,12,Urinalysis,University Plan,43.18,2
+2022-06-27,2022,6,27,TSH,Corporate Plan,107.24,2
+2023-06-24,2023,6,24,CBC,Public Health,72.92,2
+2022-02-10,2022,2,10,HbA1c,Public Health,76.26,3
+2023-12-05,2023,12,5,Electrolytes,Other Organization,107.16,1
+2023-05-17,2023,5,17,TSH,Other Organization,82.57,3
+2022-05-25,2022,5,25,Ferritin,University Plan,86.96,3
+2022-07-20,2022,7,20,TSH,Other Organization,88.81,3
+2023-12-25,2023,12,25,Liver Panel,Self-Pay,112.96,3
+2023-04-06,2023,4,6,Urinalysis,Private Insurance,45.8,1
+2023-07-12,2023,7,12,Ferritin,Public Health,93.85,3
+2023-07-01,2023,7,1,Liver Panel,Self-Pay,127.84,2
+2022-09-10,2022,9,10,CRP,Corporate Plan,74.29,3
+2023-01-25,2023,1,25,Cholesterol,Self-Pay,52.97,3
+2023-08-17,2023,8,17,HbA1c,University Plan,76.34,1
+2022-09-13,2022,9,13,Cholesterol,Corporate Plan,53.92,1
+2023-12-10,2023,12,10,CBC,Corporate Plan,88.87,2
+2023-03-26,2023,3,26,CRP,Other Organization,58.77,3
+2022-01-10,2022,1,10,Creatinine,Self-Pay,56.72,3
+2022-08-30,2022,8,30,CBC,University Plan,73.25,3
+2022-09-08,2022,9,8,CBC,Public Health,75.83,2
+2022-01-05,2022,1,5,Glucose,Other Organization,48.46,1
+2022-04-29,2022,4,29,HbA1c,Self-Pay,67.77,2
+2023-01-09,2023,1,9,Liver Panel,Public Health,123.9,3
+2022-03-06,2022,3,6,Urinalysis,Self-Pay,39.33,1
+2022-05-26,2022,5,26,Cholesterol,Other Organization,59.0,1
+2022-08-12,2022,8,12,CBC,Public Health,73.48,2
+2022-08-27,2022,8,27,Cholesterol,Other Organization,47.71,1
+2022-06-26,2022,6,26,Electrolytes,Self-Pay,94.0,1
+2022-10-09,2022,10,9,Cholesterol,Corporate Plan,54.58,3
+2022-03-04,2022,3,4,Creatinine,Private Insurance,45.02,3
+2022-08-05,2022,8,5,Ferritin,Corporate Plan,86.08,1
+2023-11-20,2023,11,20,Electrolytes,Other Organization,97.0,1
+2023-04-06,2023,4,6,Electrolytes,Other Organization,86.72,2
+2023-09-02,2023,9,2,HbA1c,Other Organization,71.75,2
+2022-04-15,2022,4,15,HbA1c,Public Health,78.07,1
+2022-04-09,2022,4,9,Vitamin D,University Plan,98.51,3
+2023-05-26,2023,5,26,TSH,Other Organization,97.79,1
+2023-01-20,2023,1,20,HbA1c,Corporate Plan,73.46,1
+2023-02-09,2023,2,9,Cholesterol,Private Insurance,53.67,3
+2023-06-02,2023,6,2,Liver Panel,Other Organization,127.24,3
+2023-04-21,2023,4,21,Cholesterol,Other Organization,53.53,2
+2023-12-10,2023,12,10,Liver Panel,Other Organization,120.17,2
+2023-10-07,2023,10,7,Ferritin,Public Health,76.7,2
+2023-03-13,2023,3,13,Ferritin,Other Organization,95.18,2
+2022-01-23,2022,1,23,Electrolytes,Corporate Plan,104.84,3
+2023-07-19,2023,7,19,Vitamin D,Self-Pay,94.77,1
+2023-11-08,2023,11,8,Liver Panel,University Plan,115.26,2
+2023-12-15,2023,12,15,Electrolytes,Other Organization,114.37,2
+2023-04-03,2023,4,3,HbA1c,Public Health,68.34,3
+2022-03-24,2022,3,24,Creatinine,Corporate Plan,50.03,3
+2022-05-25,2022,5,25,Liver Panel,Other Organization,134.76,1
+2022-03-26,2022,3,26,Ferritin,Public Health,95.87,1
+2022-03-19,2022,3,19,Cholesterol,Self-Pay,56.35,3
+2023-04-02,2023,4,2,Urinalysis,Private Insurance,43.57,2
+2022-01-01,2022,1,1,HbA1c,Other Organization,77.65,2
+2022-02-20,2022,2,20,Urinalysis,Corporate Plan,39.48,2
+2023-11-16,2023,11,16,CRP,Public Health,64.51,1
+2023-12-18,2023,12,18,CRP,Public Health,62.78,2
+2023-03-22,2023,3,22,Cholesterol,Other Organization,62.7,2
+2023-03-25,2023,3,25,CRP,Public Health,68.84,3
+2023-05-03,2023,5,3,TSH,Private Insurance,83.12,2
+2022-02-03,2022,2,3,Ferritin,Public Health,99.8,3
+2022-12-14,2022,12,14,Electrolytes,University Plan,99.42,2
+2022-04-05,2022,4,5,Vitamin D,University Plan,95.77,1
+2022-03-13,2022,3,13,HbA1c,Public Health,71.04,2
+2023-07-05,2023,7,5,Urinalysis,Other Organization,39.01,2
+2022-06-03,2022,6,3,Cholesterol,University Plan,61.23,3
+2022-09-07,2022,9,7,TSH,Corporate Plan,86.56,3
+2023-11-05,2023,11,5,Cholesterol,University Plan,60.39,3
+2023-03-14,2023,3,14,Electrolytes,Public Health,101.73,2
+2022-04-28,2022,4,28,TSH,Other Organization,82.31,2
+2022-11-02,2022,11,2,Ferritin,Self-Pay,102.74,1
+2022-09-25,2022,9,25,CRP,Other Organization,65.25,2
+2022-02-23,2022,2,23,CRP,Other Organization,60.92,1
+2022-08-24,2022,8,24,Ferritin,Other Organization,89.17,3
+2023-01-24,2023,1,24,Ferritin,Corporate Plan,99.66,3
+2023-02-05,2023,2,5,Liver Panel,Private Insurance,112.98,3
+2023-09-16,2023,9,16,Glucose,Public Health,40.85,1
+2022-10-30,2022,10,30,Ferritin,Private Insurance,79.98,2
+2022-07-26,2022,7,26,Cholesterol,Self-Pay,51.66,3
+2022-08-17,2022,8,17,Liver Panel,Private Insurance,130.08,2
+2023-08-01,2023,8,1,HbA1c,Public Health,69.4,2
+2022-03-16,2022,3,16,Liver Panel,Public Health,110.19,3
+2023-03-11,2023,3,11,CBC,Self-Pay,71.99,1
+2022-04-13,2022,4,13,CRP,Public Health,61.74,2
+2023-02-26,2023,2,26,Electrolytes,Self-Pay,113.2,3
+2023-12-05,2023,12,5,CBC,Self-Pay,76.23,2
+2022-11-02,2022,11,2,Cholesterol,Public Health,63.05,2
+2022-04-08,2022,4,8,Urinalysis,University Plan,39.82,2
+2022-12-01,2022,12,1,Urinalysis,Self-Pay,36.15,2
+2023-03-11,2023,3,11,Ferritin,Public Health,100.56,2
+2023-03-23,2023,3,23,HbA1c,University Plan,69.17,1
+2022-11-04,2022,11,4,Liver Panel,Self-Pay,127.55,1
+2022-09-06,2022,9,6,Urinalysis,University Plan,45.8,3
+2022-06-15,2022,6,15,TSH,Corporate Plan,82.18,1
+2023-04-26,2023,4,26,Ferritin,Other Organization,79.11,1
+2022-12-01,2022,12,1,TSH,Corporate Plan,101.28,1
+2023-06-26,2023,6,26,HbA1c,University Plan,65.42,2
+2022-04-16,2022,4,16,Vitamin D,Self-Pay,99.58,2
+2023-07-17,2023,7,17,Electrolytes,Public Health,86.18,3
+2022-03-22,2022,3,22,CRP,Private Insurance,55.68,3
+2022-05-13,2022,5,13,Liver Panel,Public Health,129.88,3
+2022-05-18,2022,5,18,Electrolytes,Private Insurance,89.03,2
+2022-07-03,2022,7,3,Ferritin,Private Insurance,89.13,1
+2023-02-05,2023,2,5,Cholesterol,Self-Pay,56.75,1
+2022-11-26,2022,11,26,Creatinine,University Plan,48.93,2
+2023-05-23,2023,5,23,Creatinine,Public Health,42.91,3
+2022-03-10,2022,3,10,Creatinine,University Plan,54.25,3
+2023-06-30,2023,6,30,Urinalysis,Corporate Plan,34.13,3
+2022-02-22,2022,2,22,Vitamin D,Self-Pay,118.64,2
+2023-03-26,2023,3,26,Vitamin D,Self-Pay,122.98,3
+2022-07-24,2022,7,24,Liver Panel,Corporate Plan,117.58,3
+2022-05-06,2022,5,6,Liver Panel,Public Health,121.28,2
+2022-02-12,2022,2,12,Vitamin D,Other Organization,109.24,1
+2022-04-21,2022,4,21,HbA1c,Corporate Plan,67.67,2
+2023-10-25,2023,10,25,Liver Panel,Public Health,133.95,2
+2022-07-02,2022,7,2,HbA1c,Private Insurance,78.27,2
+2022-04-05,2022,4,5,Ferritin,Self-Pay,85.57,2
+2023-01-09,2023,1,9,CBC,Public Health,82.76,1
+2023-06-04,2023,6,4,TSH,University Plan,107.17,3
+2022-12-26,2022,12,26,CRP,University Plan,74.01,2
+2023-11-27,2023,11,27,Ferritin,Self-Pay,90.24,1
+2022-10-08,2022,10,8,Electrolytes,Corporate Plan,98.58,3
+2022-07-14,2022,7,14,Liver Panel,Other Organization,112.03,3
+2022-07-14,2022,7,14,Vitamin D,Corporate Plan,125.14,3
+2023-10-29,2023,10,29,TSH,Public Health,84.82,2
+2022-04-03,2022,4,3,TSH,Corporate Plan,97.28,2
+2023-11-03,2023,11,3,Glucose,Self-Pay,42.06,3
+2022-03-02,2022,3,2,Electrolytes,Public Health,93.37,3
+2023-09-26,2023,9,26,Ferritin,Private Insurance,87.43,3
+2022-02-20,2022,2,20,Vitamin D,Corporate Plan,126.46,3
+2023-02-07,2023,2,7,CRP,Corporate Plan,56.32,3
+2022-01-05,2022,1,5,Vitamin D,Other Organization,112.59,3
+2023-04-11,2023,4,11,Liver Panel,Public Health,104.97,1
+2023-08-27,2023,8,27,Cholesterol,University Plan,49.3,3
+2023-11-13,2023,11,13,CBC,Corporate Plan,78.55,2
+2023-06-18,2023,6,18,HbA1c,Self-Pay,70.22,2
+2023-02-09,2023,2,9,Cholesterol,Corporate Plan,51.02,2
+2023-05-28,2023,5,28,Electrolytes,Other Organization,94.49,3
+2023-10-07,2023,10,7,CBC,Private Insurance,70.09,2
+2022-08-21,2022,8,21,Cholesterol,Other Organization,51.75,1
+2023-06-08,2023,6,8,HbA1c,Corporate Plan,79.8,3
+2022-12-12,2022,12,12,Urinalysis,University Plan,45.34,2
+2022-02-15,2022,2,15,Vitamin D,Corporate Plan,104.55,1
+2023-06-30,2023,6,30,Cholesterol,Public Health,56.17,1
+2022-03-19,2022,3,19,Liver Panel,Corporate Plan,134.75,2
+2023-12-31,2023,12,31,CRP,University Plan,55.37,1
+2022-03-14,2022,3,14,Ferritin,Public Health,98.39,2
+2022-09-06,2022,9,6,Creatinine,Self-Pay,56.73,1
+2022-02-16,2022,2,16,Liver Panel,Public Health,105.29,3
+2022-05-01,2022,5,1,HbA1c,Other Organization,62.89,3
+2022-08-02,2022,8,2,CRP,Private Insurance,73.98,3
+2022-08-27,2022,8,27,Liver Panel,Other Organization,121.35,3
+2022-02-25,2022,2,25,TSH,Public Health,81.15,3
+2022-12-16,2022,12,16,Vitamin D,Self-Pay,102.0,2
+2022-04-17,2022,4,17,CRP,Corporate Plan,64.02,3
+2022-02-17,2022,2,17,TSH,Public Health,100.5,3
+2023-07-27,2023,7,27,Liver Panel,Other Organization,128.39,3
+2022-12-03,2022,12,3,CBC,Public Health,91.89,3
+2022-01-26,2022,1,26,Glucose,Public Health,42.13,1
+2022-09-14,2022,9,14,CBC,Public Health,80.92,3
+2022-01-08,2022,1,8,Vitamin D,Self-Pay,111.1,3
+2023-09-17,2023,9,17,CRP,University Plan,63.16,2
+2022-09-10,2022,9,10,CRP,University Plan,58.55,1
+2023-11-23,2023,11,23,Vitamin D,Public Health,125.76,2
+2023-12-20,2023,12,20,TSH,Self-Pay,105.07,3
+2022-10-30,2022,10,30,Glucose,Self-Pay,44.98,2
+2023-10-01,2023,10,1,Liver Panel,Public Health,123.72,2
+2022-02-25,2022,2,25,Ferritin,Other Organization,82.64,3
+2023-12-27,2023,12,27,HbA1c,Other Organization,70.92,1
+2023-06-10,2023,6,10,CBC,Private Insurance,84.68,1
+2023-04-19,2023,4,19,CBC,Public Health,80.36,2
+2022-01-28,2022,1,28,Electrolytes,Private Insurance,114.71,3
+2022-03-19,2022,3,19,Creatinine,Other Organization,51.67,2
+2022-08-04,2022,8,4,Electrolytes,Other Organization,96.13,2
+2023-01-21,2023,1,21,Glucose,Public Health,48.67,2
+2022-12-31,2022,12,31,HbA1c,Private Insurance,63.08,3
+2023-10-28,2023,10,28,CBC,Private Insurance,77.23,3
+2023-06-10,2023,6,10,HbA1c,Public Health,66.79,1
+2023-11-30,2023,11,30,Ferritin,Private Insurance,88.16,3
+2022-11-08,2022,11,8,Liver Panel,Corporate Plan,130.14,2
+2022-01-07,2022,1,7,CRP,Other Organization,64.69,2
+2022-01-03,2022,1,3,HbA1c,University Plan,76.17,1
+2023-09-15,2023,9,15,CBC,Self-Pay,81.84,3
+2022-12-29,2022,12,29,TSH,Private Insurance,90.5,2
+2023-05-23,2023,5,23,Glucose,Private Insurance,49.18,1
+2022-10-01,2022,10,1,Vitamin D,Self-Pay,101.36,1
+2023-05-21,2023,5,21,Cholesterol,Private Insurance,50.45,2
+2022-01-15,2022,1,15,Urinalysis,Self-Pay,40.05,2
+2022-07-11,2022,7,11,Urinalysis,Public Health,37.13,3
+2023-09-23,2023,9,23,Cholesterol,Corporate Plan,46.9,1
+2023-04-30,2023,4,30,HbA1c,Corporate Plan,73.11,2
+2022-01-28,2022,1,28,Glucose,Other Organization,45.15,1
+2023-12-15,2023,12,15,HbA1c,University Plan,68.86,3
+2022-02-08,2022,2,8,Ferritin,Private Insurance,102.61,2
+2022-09-30,2022,9,30,Ferritin,University Plan,91.92,3
+2022-08-19,2022,8,19,Ferritin,Public Health,99.81,1
+2022-03-27,2022,3,27,Vitamin D,Corporate Plan,98.1,3
+2023-04-19,2023,4,19,Glucose,Public Health,45.93,3
+2022-05-06,2022,5,6,Electrolytes,Public Health,111.04,1
+2023-06-21,2023,6,21,Electrolytes,Private Insurance,102.49,3
+2022-05-25,2022,5,25,Cholesterol,Public Health,58.6,1
+2023-06-09,2023,6,9,Ferritin,Corporate Plan,86.55,2
+2022-07-31,2022,7,31,Ferritin,University Plan,79.0,1
+2022-01-25,2022,1,25,HbA1c,Corporate Plan,69.12,1
+2023-08-03,2023,8,3,Creatinine,Private Insurance,48.42,2
+2023-01-29,2023,1,29,CBC,Corporate Plan,88.81,1
+2022-03-08,2022,3,8,TSH,Self-Pay,87.7,2
+2022-08-21,2022,8,21,CRP,University Plan,74.1,2
+2022-04-19,2022,4,19,TSH,Self-Pay,108.06,1
+2022-05-26,2022,5,26,Vitamin D,Self-Pay,101.67,3
+2022-04-21,2022,4,21,HbA1c,Other Organization,66.81,3
+2022-08-16,2022,8,16,Liver Panel,Private Insurance,134.24,2
+2022-04-21,2022,4,21,Ferritin,Public Health,102.6,3
+2023-04-15,2023,4,15,Glucose,Self-Pay,44.24,3
+2022-02-03,2022,2,3,Electrolytes,Corporate Plan,94.63,1
+2023-09-15,2023,9,15,Electrolytes,Public Health,100.78,2
+2023-01-04,2023,1,4,HbA1c,Corporate Plan,73.94,2
+2023-08-18,2023,8,18,Glucose,Corporate Plan,41.94,1
+2023-07-08,2023,7,8,CRP,Public Health,69.61,3
+2023-03-01,2023,3,1,Creatinine,Public Health,43.27,2
+2023-09-05,2023,9,5,TSH,Corporate Plan,82.15,3
+2023-06-02,2023,6,2,CBC,Private Insurance,77.27,2
+2023-11-23,2023,11,23,CRP,University Plan,62.14,2
+2022-10-09,2022,10,9,CRP,Other Organization,61.4,2
+2022-11-16,2022,11,16,TSH,University Plan,94.74,2
+2023-03-19,2023,3,19,CRP,Private Insurance,61.5,3
+2022-11-11,2022,11,11,Liver Panel,Other Organization,108.92,3
+2023-01-12,2023,1,12,Liver Panel,Public Health,113.14,3
+2022-10-16,2022,10,16,Electrolytes,Other Organization,114.25,3
+2023-03-13,2023,3,13,Urinalysis,Corporate Plan,38.93,1
+2023-10-24,2023,10,24,Urinalysis,University Plan,39.34,2
+2022-10-04,2022,10,4,Liver Panel,Other Organization,122.76,2
+2023-12-11,2023,12,11,Cholesterol,Corporate Plan,62.98,2
+2023-08-05,2023,8,5,Creatinine,Private Insurance,46.12,1
+2023-05-18,2023,5,18,Glucose,Other Organization,47.45,3
+2023-09-16,2023,9,16,Creatinine,Corporate Plan,53.24,2
+2023-05-31,2023,5,31,Vitamin D,Private Insurance,113.54,3
+2022-12-16,2022,12,16,CRP,Public Health,56.98,3
+2023-03-22,2023,3,22,CBC,Private Insurance,84.24,1
+2022-12-16,2022,12,16,CRP,Private Insurance,56.5,1
+2023-08-30,2023,8,30,Creatinine,University Plan,51.44,3
+2023-10-26,2023,10,26,Electrolytes,Corporate Plan,107.19,2
+2022-05-17,2022,5,17,Liver Panel,Other Organization,109.59,2
+2022-08-31,2022,8,31,Ferritin,University Plan,99.22,1
+2023-06-27,2023,6,27,TSH,Self-Pay,81.62,1
+2022-02-09,2022,2,9,Vitamin D,Private Insurance,121.35,1
+2022-08-17,2022,8,17,Liver Panel,Self-Pay,118.57,1
+2023-07-02,2023,7,2,Creatinine,University Plan,45.76,1
+2022-08-11,2022,8,11,Electrolytes,Corporate Plan,89.01,1
+2022-01-06,2022,1,6,TSH,University Plan,107.92,1
+2022-11-18,2022,11,18,CBC,Corporate Plan,69.74,2
+2023-04-13,2023,4,13,Ferritin,Corporate Plan,81.88,1
+2022-03-16,2022,3,16,Creatinine,Public Health,47.72,1
+2022-01-04,2022,1,4,Glucose,Private Insurance,46.62,2
+2023-10-08,2023,10,8,HbA1c,University Plan,70.94,2
+2022-04-28,2022,4,28,TSH,Corporate Plan,84.33,3
+2023-08-29,2023,8,29,Creatinine,University Plan,46.85,1
+2023-05-19,2023,5,19,Electrolytes,University Plan,92.16,1
+2023-07-28,2023,7,28,Liver Panel,Corporate Plan,109.69,1
+2023-03-17,2023,3,17,Glucose,Other Organization,43.8,1
+2022-07-13,2022,7,13,Cholesterol,Self-Pay,58.37,3
+2023-12-16,2023,12,16,TSH,Private Insurance,86.95,2
+2023-01-27,2023,1,27,Ferritin,Private Insurance,86.4,2
+2022-01-26,2022,1,26,Glucose,Other Organization,43.53,1
+2023-03-11,2023,3,11,Electrolytes,Public Health,114.29,1
+2022-06-22,2022,6,22,Liver Panel,Other Organization,136.37,1
+2022-10-27,2022,10,27,Creatinine,Public Health,54.5,3
+2023-10-07,2023,10,7,CRP,Public Health,59.96,3
+2022-11-22,2022,11,22,CBC,Other Organization,69.63,2
+2023-02-14,2023,2,14,Electrolytes,Private Insurance,94.51,1
+2022-04-28,2022,4,28,Ferritin,Self-Pay,83.7,1
+2023-12-25,2023,12,25,CRP,Private Insurance,65.12,1
+2022-08-13,2022,8,13,Ferritin,Private Insurance,97.5,1
+2023-06-16,2023,6,16,HbA1c,Private Insurance,77.52,3
+2022-04-23,2022,4,23,Ferritin,Other Organization,99.31,2
+2022-05-20,2022,5,20,Glucose,Other Organization,43.11,2
+2023-07-13,2023,7,13,HbA1c,Other Organization,73.93,3
+2022-01-01,2022,1,1,CBC,Private Insurance,75.51,1
+2022-03-31,2022,3,31,Glucose,Self-Pay,39.07,2
+2023-10-16,2023,10,16,Urinalysis,Public Health,42.42,2
+2022-11-16,2022,11,16,Liver Panel,University Plan,102.35,3
+2023-07-04,2023,7,4,Glucose,Public Health,43.77,1
+2022-05-19,2022,5,19,Electrolytes,Public Health,94.88,2
+2023-05-26,2023,5,26,Liver Panel,University Plan,126.96,1
+2022-09-16,2022,9,16,CRP,Private Insurance,70.19,2
+2023-11-04,2023,11,4,Vitamin D,Self-Pay,103.54,3
+2023-11-21,2023,11,21,TSH,Self-Pay,103.88,1
+2022-01-10,2022,1,10,Vitamin D,Public Health,103.2,3
+2022-09-18,2022,9,18,Creatinine,University Plan,49.19,2
+2023-10-12,2023,10,12,TSH,Corporate Plan,101.47,3
+2022-06-21,2022,6,21,Ferritin,Private Insurance,95.21,3
+2022-01-13,2022,1,13,TSH,Public Health,108.89,3
+2022-06-17,2022,6,17,Electrolytes,Self-Pay,91.75,2
+2023-10-04,2023,10,4,Electrolytes,Other Organization,104.87,1
+2023-08-19,2023,8,19,Cholesterol,Other Organization,56.81,3
+2022-11-17,2022,11,17,TSH,University Plan,106.83,1
+2022-11-15,2022,11,15,CBC,University Plan,71.75,2
+2023-09-05,2023,9,5,Vitamin D,Public Health,118.31,1
+2022-11-25,2022,11,25,CRP,Corporate Plan,66.33,3
+2023-07-04,2023,7,4,Liver Panel,Self-Pay,111.89,3
+2023-02-23,2023,2,23,Creatinine,Public Health,49.62,3
+2023-08-29,2023,8,29,TSH,Corporate Plan,90.26,3
+2022-04-05,2022,4,5,Creatinine,University Plan,51.19,3
+2023-08-04,2023,8,4,CRP,Other Organization,72.59,3
+2022-11-14,2022,11,14,Creatinine,Private Insurance,51.04,2
+2022-08-24,2022,8,24,Ferritin,Other Organization,93.56,2
+2022-11-30,2022,11,30,CRP,Self-Pay,65.37,2
+2023-01-11,2023,1,11,Ferritin,Self-Pay,77.88,1
+2023-04-04,2023,4,4,TSH,Other Organization,87.39,1
+2022-05-17,2022,5,17,CRP,Other Organization,64.84,2
+2023-08-11,2023,8,11,TSH,Corporate Plan,89.59,1
+2023-07-01,2023,7,1,Ferritin,Public Health,81.41,1
+2023-05-28,2023,5,28,Cholesterol,University Plan,55.07,3
+2022-10-23,2022,10,23,Cholesterol,Corporate Plan,52.08,3
+2022-11-16,2022,11,16,CRP,Private Insurance,60.28,1
+2023-07-26,2023,7,26,Electrolytes,Other Organization,98.92,1
+2022-12-15,2022,12,15,Cholesterol,Private Insurance,48.95,2
+2022-08-17,2022,8,17,Liver Panel,Private Insurance,135.4,1
+2022-09-27,2022,9,27,Electrolytes,Corporate Plan,111.03,3
+2022-10-18,2022,10,18,Liver Panel,University Plan,127.47,1
+2023-12-26,2023,12,26,Cholesterol,Self-Pay,48.5,2
+2022-06-14,2022,6,14,Cholesterol,Public Health,59.55,3
+2022-01-05,2022,1,5,Urinalysis,Self-Pay,43.7,3
+2023-01-14,2023,1,14,Urinalysis,University Plan,43.21,3
+2022-03-19,2022,3,19,TSH,Self-Pay,84.0,3
+2023-02-14,2023,2,14,CRP,Other Organization,67.81,1
+2023-07-28,2023,7,28,HbA1c,Other Organization,77.02,2
+2022-05-12,2022,5,12,HbA1c,Corporate Plan,71.62,1
+2023-08-24,2023,8,24,Cholesterol,Private Insurance,57.42,1
+2022-02-11,2022,2,11,Creatinine,University Plan,49.38,3
+2022-03-30,2022,3,30,Cholesterol,University Plan,55.47,2
+2023-02-06,2023,2,6,Urinalysis,Self-Pay,34.41,3
+2022-10-23,2022,10,23,TSH,Corporate Plan,98.96,1
+2022-10-22,2022,10,22,Cholesterol,Self-Pay,48.09,1
+2023-09-08,2023,9,8,Vitamin D,Self-Pay,107.86,3
+2023-06-10,2023,6,10,Electrolytes,University Plan,93.78,1
+2023-11-22,2023,11,22,Creatinine,Self-Pay,50.68,1
+2023-09-29,2023,9,29,Vitamin D,Private Insurance,97.9,3
+2023-02-26,2023,2,26,TSH,Self-Pay,100.46,1
+2022-01-23,2022,1,23,TSH,Private Insurance,103.41,2
+2023-07-29,2023,7,29,Liver Panel,University Plan,107.88,3
+2022-05-23,2022,5,23,Glucose,Corporate Plan,39.66,2
+2023-10-27,2023,10,27,Vitamin D,Other Organization,98.3,1
+2022-05-25,2022,5,25,Liver Panel,Private Insurance,133.58,1
+2022-08-13,2022,8,13,Urinalysis,Corporate Plan,40.34,3
+2023-05-18,2023,5,18,CBC,Corporate Plan,79.21,1
+2023-09-08,2023,9,8,Creatinine,Private Insurance,44.1,3
+2022-04-14,2022,4,14,Electrolytes,University Plan,104.49,3
+2022-02-08,2022,2,8,CBC,Public Health,88.83,3
+2022-07-17,2022,7,17,CRP,Corporate Plan,71.4,3
+2023-10-08,2023,10,8,Ferritin,Corporate Plan,93.4,3
+2023-08-02,2023,8,2,Urinalysis,University Plan,34.9,2
+2023-01-26,2023,1,26,Urinalysis,University Plan,35.35,3
+2022-06-28,2022,6,28,CBC,Self-Pay,69.18,2
+2023-07-08,2023,7,8,Vitamin D,University Plan,102.0,1
+2023-03-24,2023,3,24,Glucose,Corporate Plan,40.08,3
+2023-05-15,2023,5,15,Electrolytes,Private Insurance,92.8,1
+2022-01-15,2022,1,15,Vitamin D,Public Health,106.21,3
+2023-09-15,2023,9,15,CBC,Self-Pay,90.63,2
+2023-10-31,2023,10,31,Electrolytes,Private Insurance,103.31,2
+2022-10-16,2022,10,16,CRP,Public Health,71.53,2
+2023-04-23,2023,4,23,Vitamin D,Public Health,116.94,1
+2022-08-19,2022,8,19,HbA1c,Public Health,61.86,3
+2023-02-24,2023,2,24,Vitamin D,Other Organization,117.79,1
+2022-06-06,2022,6,6,TSH,Private Insurance,88.59,2
+2023-07-04,2023,7,4,Ferritin,Self-Pay,93.76,1
+2023-03-17,2023,3,17,Liver Panel,Self-Pay,114.27,2
+2022-04-07,2022,4,7,Creatinine,Public Health,57.47,2
+2023-02-15,2023,2,15,Ferritin,Private Insurance,83.62,2
+2022-10-16,2022,10,16,Vitamin D,Other Organization,102.71,3
+2022-09-11,2022,9,11,Glucose,Public Health,50.81,3
+2022-07-15,2022,7,15,Ferritin,University Plan,77.17,2
+2023-08-21,2023,8,21,Electrolytes,Self-Pay,105.9,1
+2023-06-06,2023,6,6,Glucose,Corporate Plan,48.04,1
+2023-06-01,2023,6,1,Ferritin,Public Health,99.08,3
+2023-09-27,2023,9,27,Electrolytes,University Plan,114.23,2
+2022-04-28,2022,4,28,Vitamin D,Self-Pay,125.69,1
+2022-06-08,2022,6,8,Electrolytes,Other Organization,86.96,2
+2022-08-16,2022,8,16,Cholesterol,Private Insurance,60.31,1
+2022-08-04,2022,8,4,Urinalysis,Self-Pay,41.76,3
+2023-11-27,2023,11,27,Ferritin,Private Insurance,93.98,2
+2022-01-15,2022,1,15,Vitamin D,Private Insurance,97.74,2
+2022-06-06,2022,6,6,Urinalysis,Other Organization,41.8,1
+2023-10-10,2023,10,10,HbA1c,Other Organization,80.13,1
+2022-09-18,2022,9,18,Electrolytes,Public Health,112.35,1
+2022-06-06,2022,6,6,CBC,Public Health,78.54,2
+2022-02-16,2022,2,16,HbA1c,Self-Pay,60.34,3
+2022-11-20,2022,11,20,Vitamin D,Other Organization,105.46,3
+2023-11-16,2023,11,16,Glucose,University Plan,49.41,1
+2022-05-10,2022,5,10,Cholesterol,Self-Pay,58.32,3
+2023-02-15,2023,2,15,CRP,Corporate Plan,64.21,1
+2022-04-05,2022,4,5,Urinalysis,Private Insurance,34.66,3
+2023-09-19,2023,9,19,Liver Panel,Private Insurance,117.37,2
+2022-10-19,2022,10,19,Urinalysis,Public Health,39.63,1
+2022-10-10,2022,10,10,TSH,University Plan,107.21,3
+2022-03-10,2022,3,10,Creatinine,Other Organization,52.12,2
+2023-10-22,2023,10,22,Vitamin D,Other Organization,103.78,3
+2022-01-11,2022,1,11,HbA1c,Public Health,70.53,2
+2022-09-11,2022,9,11,Liver Panel,Corporate Plan,104.38,2
+2023-07-04,2023,7,4,Glucose,Self-Pay,51.38,3
+2022-05-14,2022,5,14,Glucose,Self-Pay,43.11,3
+2023-12-13,2023,12,13,Glucose,University Plan,44.7,2
+2022-01-23,2022,1,23,CRP,Public Health,62.18,2
+2022-12-12,2022,12,12,TSH,Public Health,100.2,2
+2022-10-29,2022,10,29,Glucose,Corporate Plan,47.19,1
+2022-12-29,2022,12,29,Electrolytes,Self-Pay,106.46,2
+2023-01-31,2023,1,31,Glucose,Public Health,41.87,1
+2022-08-06,2022,8,6,Vitamin D,Other Organization,103.92,2
+2022-05-21,2022,5,21,TSH,University Plan,84.32,1
+2023-09-08,2023,9,8,Ferritin,Self-Pay,94.2,2
+2022-07-29,2022,7,29,Cholesterol,Corporate Plan,47.41,2
+2023-09-15,2023,9,15,Cholesterol,University Plan,56.61,2
+2023-09-08,2023,9,8,TSH,Private Insurance,105.54,3
+2023-11-14,2023,11,14,Creatinine,Other Organization,55.86,3
+2023-04-05,2023,4,5,CRP,Corporate Plan,64.01,2
+2022-12-22,2022,12,22,Liver Panel,University Plan,118.53,1
+2022-11-20,2022,11,20,Electrolytes,Public Health,87.31,1
+2022-05-13,2022,5,13,Urinalysis,Private Insurance,42.05,2
+2022-05-07,2022,5,7,Vitamin D,Corporate Plan,120.6,3
+2022-04-16,2022,4,16,CBC,Public Health,73.87,1
+2023-08-27,2023,8,27,Cholesterol,Other Organization,53.7,3
+2023-01-13,2023,1,13,Ferritin,Private Insurance,99.15,1
+2022-02-20,2022,2,20,TSH,Self-Pay,105.75,2
+2022-01-29,2022,1,29,Liver Panel,Public Health,110.75,3
+2023-04-07,2023,4,7,TSH,University Plan,96.44,1
+2022-10-23,2022,10,23,Urinalysis,Corporate Plan,36.31,2
+2022-10-24,2022,10,24,Liver Panel,Private Insurance,105.67,2
+2023-12-27,2023,12,27,Cholesterol,Public Health,61.78,2
+2023-02-11,2023,2,11,Glucose,Self-Pay,49.33,3
+2023-09-05,2023,9,5,Electrolytes,Corporate Plan,107.8,3
+2023-02-09,2023,2,9,TSH,Corporate Plan,82.14,2
+2022-12-12,2022,12,12,Electrolytes,Public Health,110.31,3
+2023-09-14,2023,9,14,Electrolytes,Self-Pay,98.14,1
+2023-02-24,2023,2,24,Electrolytes,Other Organization,95.27,2
+2022-07-01,2022,7,1,Ferritin,Other Organization,91.25,2
+2022-01-01,2022,1,1,CBC,Private Insurance,70.19,3
+2023-07-21,2023,7,21,Cholesterol,Public Health,59.23,2
+2023-01-06,2023,1,6,Electrolytes,Private Insurance,102.47,1
+2023-10-23,2023,10,23,Ferritin,Other Organization,81.54,3
+2023-03-07,2023,3,7,HbA1c,Corporate Plan,63.45,3
+2022-11-05,2022,11,5,CBC,Private Insurance,72.42,2
+2022-05-17,2022,5,17,Creatinine,Self-Pay,43.36,2
+2022-07-21,2022,7,21,CRP,University Plan,66.71,2
+2023-03-12,2023,3,12,Cholesterol,Other Organization,60.62,3
+2022-11-09,2022,11,9,Glucose,Other Organization,38.49,2
+2022-04-27,2022,4,27,Cholesterol,Self-Pay,47.56,1
+2023-10-28,2023,10,28,Urinalysis,Private Insurance,40.87,2
+2023-07-29,2023,7,29,Liver Panel,Public Health,131.5,2
+2022-09-01,2022,9,1,TSH,Corporate Plan,90.06,3
+2023-06-21,2023,6,21,Electrolytes,University Plan,95.49,2
+2023-08-25,2023,8,25,Liver Panel,Public Health,123.47,3
+2022-03-16,2022,3,16,Liver Panel,Public Health,111.87,2
+2023-01-21,2023,1,21,Electrolytes,Self-Pay,85.8,1
+2022-07-29,2022,7,29,Cholesterol,Private Insurance,58.88,1
+2023-04-20,2023,4,20,Electrolytes,Other Organization,103.77,3
+2023-02-22,2023,2,22,Urinalysis,Other Organization,40.97,3
+2022-12-13,2022,12,13,Electrolytes,Self-Pay,107.25,2
+2023-06-13,2023,6,13,TSH,Private Insurance,99.99,2
+2023-10-02,2023,10,2,TSH,Self-Pay,86.62,1
+2022-06-28,2022,6,28,Liver Panel,Other Organization,114.69,2
+2022-07-01,2022,7,1,Creatinine,Public Health,44.39,1
+2023-10-26,2023,10,26,CRP,Corporate Plan,57.78,3
+2022-01-25,2022,1,25,Urinalysis,Private Insurance,42.11,2
+2022-06-29,2022,6,29,Creatinine,University Plan,55.38,3
+2023-12-11,2023,12,11,Vitamin D,University Plan,125.27,2
+2023-05-16,2023,5,16,Vitamin D,Public Health,114.24,1
+2022-06-10,2022,6,10,CBC,Self-Pay,72.42,3
+2022-06-26,2022,6,26,Liver Panel,Self-Pay,105.8,3
+2022-10-12,2022,10,12,TSH,Other Organization,103.92,2
+2022-03-04,2022,3,4,Cholesterol,Public Health,56.3,3
+2023-10-24,2023,10,24,TSH,Other Organization,98.37,1
+2023-10-28,2023,10,28,Ferritin,Other Organization,97.6,3
+2022-06-05,2022,6,5,Ferritin,University Plan,95.49,3
+2023-04-14,2023,4,14,TSH,Other Organization,104.53,2
+2022-02-18,2022,2,18,Ferritin,Other Organization,78.02,3
+2022-03-25,2022,3,25,Glucose,University Plan,48.34,2
+2022-12-27,2022,12,27,TSH,Self-Pay,105.0,2
+2023-11-20,2023,11,20,CBC,Private Insurance,74.87,3
+2022-05-28,2022,5,28,Creatinine,Corporate Plan,52.11,1
+2023-09-22,2023,9,22,Vitamin D,Other Organization,103.87,2
+2022-12-08,2022,12,8,TSH,Private Insurance,108.05,3
+2023-04-21,2023,4,21,TSH,University Plan,81.7,2
+2022-03-04,2022,3,4,Ferritin,Private Insurance,92.15,1
+2023-12-02,2023,12,2,Electrolytes,Corporate Plan,90.0,1
+2022-12-26,2022,12,26,Glucose,Private Insurance,47.86,2
+2023-07-15,2023,7,15,Urinalysis,Private Insurance,36.11,1
+2022-11-23,2022,11,23,Cholesterol,Private Insurance,50.63,3
+2022-05-21,2022,5,21,Urinalysis,Private Insurance,39.93,3
+2022-08-03,2022,8,3,Cholesterol,Public Health,61.84,2
+2023-03-11,2023,3,11,CRP,Other Organization,59.38,1
+2023-12-24,2023,12,24,TSH,University Plan,84.86,3
+2022-11-14,2022,11,14,Glucose,Corporate Plan,48.5,3
+2022-02-01,2022,2,1,HbA1c,University Plan,70.01,3
+2023-11-01,2023,11,1,Ferritin,Public Health,101.12,2
+2022-10-12,2022,10,12,Liver Panel,Public Health,107.28,2
+2022-11-01,2022,11,1,Ferritin,Public Health,93.94,3
+2023-03-05,2023,3,5,Vitamin D,Other Organization,101.19,3
+2023-04-22,2023,4,22,Creatinine,Public Health,44.85,1
