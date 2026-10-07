@@ -1,14 +1,6 @@
 -- ============================================================
 -- BI_Pharmacie - Public Database Schema
 -- ============================================================
--- Schema-only version prepared for the public project repository.
--- Original INSERT/data statements have been removed for privacy.
--- ============================================================
-
--- Schema-only version prepared for the public project repository.
--- Original INSERT/data statements have been removed for privacy.
--- Source: bi_db.sql from the academic BI project.
--- ============================================================
 
 SET SQL_MODE = "NO_AUTO_VALUE_ON_ZERO";
 SET time_zone = "+00:00";
